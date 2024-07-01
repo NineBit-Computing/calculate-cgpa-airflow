@@ -1,0 +1,248 @@
+[2024-07-01T17:48:08.696+0530] {processor.py:161} INFO - Started process (PID=10829) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:48:08.697+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:48:08.697+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:08.697+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:48:08.700+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:08.700+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:48:08.701+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:48:08.742+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:08.742+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:48:08.745+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:08.745+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:48:08.755+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2024-07-01T17:49:16.306+0530] {processor.py:161} INFO - Started process (PID=11358) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:49:16.306+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:49:16.307+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:16.307+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:49:16.310+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:16.310+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:49:16.311+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:49:16.317+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:16.317+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:49:16.374+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:16.374+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:49:16.384+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.083 seconds
+[2024-07-01T17:49:54.604+0530] {processor.py:161} INFO - Started process (PID=11418) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:49:54.605+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:49:54.606+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:54.606+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:49:54.612+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:54.612+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:49:54.613+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:49:54.620+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:54.620+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:49:54.624+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:54.624+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:49:54.634+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.033 seconds
+[2024-07-01T17:50:44.247+0530] {processor.py:161} INFO - Started process (PID=11477) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:50:44.247+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:50:44.249+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:44.249+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:50:44.255+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:44.255+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:50:44.255+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:50:44.269+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:44.269+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:50:44.274+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:44.273+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:50:44.283+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2024-07-01T17:51:37.470+0530] {processor.py:161} INFO - Started process (PID=11671) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:51:37.471+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:51:37.472+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:37.472+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:51:37.478+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:37.478+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:51:37.478+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:51:37.486+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:37.486+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:51:37.490+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:37.490+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:51:37.500+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.033 seconds
+[2024-07-01T17:52:13.852+0530] {processor.py:161} INFO - Started process (PID=12019) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:52:13.852+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:52:13.854+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:13.853+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:52:13.859+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:13.859+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:52:13.859+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:52:13.873+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:13.873+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:52:13.878+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:13.878+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:52:13.889+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2024-07-01T17:52:51.083+0530] {processor.py:161} INFO - Started process (PID=12058) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:52:51.083+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:52:51.084+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:51.084+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:52:51.087+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:51.087+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:52:51.087+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:52:51.093+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:51.093+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:52:51.098+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:51.097+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:52:51.107+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.030 seconds
+[2024-07-01T17:53:42.667+0530] {processor.py:161} INFO - Started process (PID=12161) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:53:42.667+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:53:42.668+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:42.668+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:53:42.671+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:42.671+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:53:42.672+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:53:42.682+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:42.682+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:53:42.687+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:42.687+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:53:42.701+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.038 seconds
+[2024-07-01T17:54:18.250+0530] {processor.py:161} INFO - Started process (PID=12512) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:54:18.250+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:54:18.251+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:18.251+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:54:18.254+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:18.254+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:54:18.254+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:54:18.261+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:18.261+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:54:18.265+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:18.265+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:54:18.275+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.031 seconds
+[2024-07-01T17:54:55.519+0530] {processor.py:161} INFO - Started process (PID=12559) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:54:55.520+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:54:55.521+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:55.521+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:54:55.527+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:55.527+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:54:55.527+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:54:55.535+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:55.535+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:54:55.539+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:55.539+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:54:55.548+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.034 seconds
+[2024-07-01T17:55:48.043+0530] {processor.py:161} INFO - Started process (PID=12641) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:55:48.044+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:55:48.046+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:48.045+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:55:48.053+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:48.052+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:55:48.053+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:55:48.064+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:48.064+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:55:48.068+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:48.068+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:55:48.078+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2024-07-01T17:56:40.069+0530] {processor.py:161} INFO - Started process (PID=12714) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:56:40.070+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:56:40.070+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:40.070+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:56:40.073+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:40.073+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:56:40.073+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:56:40.080+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:40.079+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:56:40.084+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:40.084+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:56:40.094+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.030 seconds
+[2024-07-01T17:57:33.756+0530] {processor.py:161} INFO - Started process (PID=12788) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:57:33.756+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:57:33.757+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:33.757+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:57:33.760+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:33.760+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:57:33.760+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:57:33.766+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:33.766+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:57:33.771+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:33.771+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:57:33.780+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.030 seconds
+[2024-07-01T17:58:26.267+0530] {processor.py:161} INFO - Started process (PID=12889) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:58:26.268+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:58:26.268+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:26.268+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:58:26.271+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:26.271+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:58:26.271+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:58:26.278+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:26.278+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:58:26.282+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:26.282+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:58:26.292+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.031 seconds
+[2024-07-01T17:59:17.595+0530] {processor.py:161} INFO - Started process (PID=12959) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:59:17.595+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T17:59:17.597+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:17.596+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:59:17.603+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:17.603+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T17:59:17.603+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T17:59:17.610+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:17.610+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:59:17.615+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:17.615+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T17:59:17.625+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.036 seconds
+[2024-07-01T18:00:08.054+0530] {processor.py:161} INFO - Started process (PID=13035) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:00:08.055+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:00:08.056+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:08.055+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:00:08.062+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:08.061+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:00:08.062+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:00:08.070+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:08.069+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:00:08.074+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:08.074+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:00:08.083+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.034 seconds
+[2024-07-01T18:01:01.133+0530] {processor.py:161} INFO - Started process (PID=13111) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:01:01.134+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:01:01.134+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:01.134+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:01:01.137+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:01.137+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:01:01.137+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:01:01.143+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:01.143+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:01:01.148+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:01.148+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:01:01.157+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.030 seconds
+[2024-07-01T18:01:52.921+0530] {processor.py:161} INFO - Started process (PID=13184) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:01:52.921+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:01:52.922+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:52.922+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:01:52.925+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:52.925+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:01:52.925+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:01:52.931+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:52.931+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:01:52.936+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:52.936+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:01:52.945+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.029 seconds
+[2024-07-01T18:02:46.151+0530] {processor.py:161} INFO - Started process (PID=13257) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:02:46.151+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:02:46.153+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:46.152+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:02:46.159+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:46.159+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:02:46.159+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:02:46.167+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:46.166+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:02:46.171+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:46.171+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:02:46.181+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.035 seconds
+[2024-07-01T18:03:36.599+0530] {processor.py:161} INFO - Started process (PID=13356) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:03:36.600+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:03:36.602+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:36.602+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:03:36.608+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:36.607+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:03:36.608+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:03:36.615+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:36.615+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:03:36.619+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:36.619+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:03:36.628+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.038 seconds
+[2024-07-01T18:04:28.050+0530] {processor.py:161} INFO - Started process (PID=13434) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:04:28.051+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:04:28.052+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:28.052+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:04:28.058+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:28.058+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:04:28.059+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:04:28.066+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:28.066+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:04:28.070+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:28.070+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:04:28.079+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.035 seconds
+[2024-07-01T18:05:21.703+0530] {processor.py:161} INFO - Started process (PID=13932) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:05:21.704+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:05:21.704+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:21.704+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:05:21.707+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:21.707+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:05:21.707+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:05:21.714+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:21.714+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:05:21.718+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:21.718+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:05:21.728+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.029 seconds
+[2024-07-01T18:06:10.021+0530] {processor.py:161} INFO - Started process (PID=14020) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:06:10.021+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:06:10.023+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:10.022+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:06:10.028+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:10.028+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:06:10.029+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:06:10.036+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:10.036+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:06:10.040+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:10.040+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:06:10.050+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.034 seconds
+[2024-07-01T18:07:02.069+0530] {processor.py:161} INFO - Started process (PID=14093) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:07:02.070+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:07:02.071+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:02.071+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:07:02.075+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:02.075+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:07:02.075+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:07:02.082+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:02.082+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:07:02.086+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:02.086+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:07:02.095+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.033 seconds
+[2024-07-01T18:07:50.302+0530] {processor.py:161} INFO - Started process (PID=14164) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:07:50.302+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:07:50.303+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:50.303+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:07:50.305+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:50.305+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:07:50.306+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:07:50.312+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:50.312+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:07:50.316+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:50.316+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:07:50.325+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.026 seconds
+[2024-07-01T18:08:41.714+0530] {processor.py:161} INFO - Started process (PID=14263) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:08:41.714+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:08:41.716+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:41.715+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:08:41.719+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:41.719+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:08:41.719+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:08:41.725+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:41.725+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:08:41.730+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:41.730+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:08:41.739+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.031 seconds
+[2024-07-01T18:09:34.818+0530] {processor.py:161} INFO - Started process (PID=14426) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:09:34.819+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:09:34.820+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:34.820+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:09:34.824+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:34.824+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:09:34.824+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:09:34.830+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:34.830+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:09:34.835+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:34.835+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:09:34.844+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.032 seconds
+[2024-07-01T18:10:28.008+0530] {processor.py:161} INFO - Started process (PID=14509) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:10:28.008+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:10:28.009+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:28.009+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:10:28.012+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:28.012+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:10:28.012+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:10:28.018+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:28.018+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:10:28.023+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:28.023+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:10:28.032+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.029 seconds
+[2024-07-01T18:11:19.458+0530] {processor.py:161} INFO - Started process (PID=14625) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:11:19.459+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:11:19.461+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:19.460+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:11:19.465+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:19.465+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:11:19.465+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:11:19.472+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:19.472+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:11:19.476+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:19.476+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:11:19.485+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.034 seconds
+[2024-07-01T18:12:12.467+0530] {processor.py:161} INFO - Started process (PID=14765) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:12:12.468+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:12:12.468+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:12.468+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:12:12.471+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:12.471+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:12:12.471+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:12:12.478+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:12.478+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:12:12.482+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:12.482+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:12:12.492+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.029 seconds
+[2024-07-01T18:13:01.982+0530] {processor.py:161} INFO - Started process (PID=15156) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:13:01.983+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-01T18:13:01.984+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:13:01.983+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:13:01.991+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:13:01.990+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-01T18:13:01.991+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2024-07-01T18:13:02.000+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:13:01.999+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:13:02.005+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:13:02.005+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-01T18:13:02.015+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.038 seconds

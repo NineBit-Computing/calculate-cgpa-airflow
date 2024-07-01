@@ -1,0 +1,21 @@
+[2024-05-03T14:35:29.761+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-03T14:35:29.768+0530] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bharat1_dag.choose_best_model scheduled__2024-05-03T08:30:00+00:00 [queued]>
+[2024-05-03T14:35:29.771+0530] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bharat1_dag.choose_best_model scheduled__2024-05-03T08:30:00+00:00 [queued]>
+[2024-05-03T14:35:29.771+0530] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2024-05-03T14:35:29.778+0530] {taskinstance.py:2327} INFO - Executing <Task(BranchPythonOperator): choose_best_model> on 2024-05-03 08:30:00+00:00
+[2024-05-03T14:35:29.780+0530] {standard_task_runner.py:63} INFO - Started process 57534 to run task
+[2024-05-03T14:35:29.781+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'bharat1_dag', 'choose_best_model', 'scheduled__2024-05-03T08:30:00+00:00', '--job-id', '595', '--raw', '--subdir', 'DAGS_FOLDER/bharat1_dag.py', '--cfg-path', '/tmp/tmpish8dvb6']
+[2024-05-03T14:35:29.782+0530] {standard_task_runner.py:91} INFO - Job 595: Subtask choose_best_model
+[2024-05-03T14:35:29.797+0530] {task_command.py:426} INFO - Running <TaskInstance: bharat1_dag.choose_best_model scheduled__2024-05-03T08:30:00+00:00 [running]> on host ninebit5lm
+[2024-05-03T14:35:29.826+0530] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='bharat1_dag' AIRFLOW_CTX_TASK_ID='choose_best_model' AIRFLOW_CTX_EXECUTION_DATE='2024-05-03T08:30:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-05-03T08:30:00+00:00'
+[2024-05-03T14:35:29.826+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2024-05-03T14:35:29.827+0530] {baseoperator.py:399} WARNING - BranchPythonOperator.execute cannot be called outside TaskInstance!
+[2024-05-03T14:35:29.829+0530] {python.py:237} INFO - Done. Returned value was: inaccurate
+[2024-05-03T14:35:29.829+0530] {branch.py:36} INFO - Branch into inaccurate
+[2024-05-03T14:35:29.829+0530] {skipmixin.py:178} INFO - Following branch inaccurate
+[2024-05-03T14:35:29.831+0530] {skipmixin.py:246} INFO - Skipping tasks [('accurate', -1)]
+[2024-05-03T14:35:29.840+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-05-03T14:35:29.845+0530] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=bharat1_dag, task_id=choose_best_model, execution_date=20240503T083000, start_date=20240503T090529, end_date=20240503T090529
+[2024-05-03T14:35:29.873+0530] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-05-03T14:35:29.885+0530] {taskinstance.py:3482} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-05-03T14:35:29.888+0530] {local_task_job_runner.py:222} INFO - ::endgroup::

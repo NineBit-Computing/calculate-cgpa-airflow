@@ -1,0 +1,140 @@
+[2024-07-01T17:49:08.803+0530] {processor.py:161} INFO - Started process (PID=11351) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:49:08.803+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T17:49:08.804+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:08.804+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:49:08.807+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:49:08.884+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:08.884+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:49:08.890+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:08.890+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:16:00+00:00, run_after=2024-07-01 12:18:00+00:00
+[2024-07-01T17:49:08.900+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.102 seconds
+[2024-07-01T17:50:12.828+0530] {processor.py:161} INFO - Started process (PID=11439) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:50:12.829+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T17:50:12.830+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:12.829+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:50:12.832+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:50:12.837+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:12.837+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:50:12.845+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:12.845+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:18:00+00:00, run_after=2024-07-01 12:20:00+00:00
+[2024-07-01T17:50:12.854+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.032 seconds
+[2024-07-01T17:51:29.655+0530] {processor.py:161} INFO - Started process (PID=11637) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:51:29.655+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T17:51:29.659+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:29.658+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:51:29.662+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:51:29.668+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:29.668+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:51:29.675+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:29.675+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:18:00+00:00, run_after=2024-07-01 12:20:00+00:00
+[2024-07-01T17:51:29.684+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.032 seconds
+[2024-07-01T17:52:43.670+0530] {processor.py:161} INFO - Started process (PID=12051) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:52:43.671+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T17:52:43.672+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:43.671+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:52:43.675+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:52:43.681+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:43.681+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:52:43.689+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:43.689+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:20:00+00:00, run_after=2024-07-01 12:22:00+00:00
+[2024-07-01T17:52:43.698+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.035 seconds
+[2024-07-01T17:54:11.984+0530] {processor.py:161} INFO - Started process (PID=12502) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:54:11.984+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T17:54:11.985+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:11.985+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:54:11.989+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:54:11.996+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:11.996+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:54:12.003+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:12.003+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:22:00+00:00, run_after=2024-07-01 12:24:00+00:00
+[2024-07-01T17:54:12.013+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.031 seconds
+[2024-07-01T17:55:16.069+0530] {processor.py:161} INFO - Started process (PID=12601) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:55:16.071+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T17:55:16.073+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:16.073+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:55:16.078+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:55:16.084+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:16.084+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:55:16.091+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:16.091+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:22:00+00:00, run_after=2024-07-01 12:24:00+00:00
+[2024-07-01T17:55:16.101+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.042 seconds
+[2024-07-01T17:56:33.333+0530] {processor.py:161} INFO - Started process (PID=12706) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:56:33.334+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T17:56:33.335+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:33.335+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:56:33.339+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:56:33.346+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:33.346+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:56:33.353+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:33.353+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:24:00+00:00, run_after=2024-07-01 12:26:00+00:00
+[2024-07-01T17:56:33.363+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.036 seconds
+[2024-07-01T17:57:28.385+0530] {processor.py:161} INFO - Started process (PID=12783) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:57:28.385+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T17:57:28.387+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:28.386+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:57:28.391+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:57:28.398+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:28.398+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:57:28.406+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:28.405+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:24:00+00:00, run_after=2024-07-01 12:26:00+00:00
+[2024-07-01T17:57:28.415+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.034 seconds
+[2024-07-01T17:58:45.706+0530] {processor.py:161} INFO - Started process (PID=12928) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:58:45.707+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T17:58:45.709+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:45.708+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:58:45.712+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T17:58:45.718+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:45.718+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:58:45.725+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:45.725+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:26:00+00:00, run_after=2024-07-01 12:28:00+00:00
+[2024-07-01T17:58:45.734+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.037 seconds
+[2024-07-01T18:00:03.841+0530] {processor.py:161} INFO - Started process (PID=13030) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:00:03.841+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:00:03.842+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:03.842+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:00:03.844+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:00:03.850+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:03.850+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:00:03.857+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:03.857+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:28:00+00:00, run_after=2024-07-01 12:30:00+00:00
+[2024-07-01T18:00:03.868+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.033 seconds
+[2024-07-01T18:01:21.401+0530] {processor.py:161} INFO - Started process (PID=13151) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:01:21.402+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:01:21.403+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:21.403+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:01:21.408+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:01:21.415+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:21.415+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:01:21.423+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:21.422+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:28:00+00:00, run_after=2024-07-01 12:30:00+00:00
+[2024-07-01T18:01:21.432+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.034 seconds
+[2024-07-01T18:02:42.140+0530] {processor.py:161} INFO - Started process (PID=13252) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:02:42.141+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:02:42.143+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:42.143+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:02:42.147+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:02:42.153+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:42.153+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:02:42.160+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:42.160+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:30:00+00:00, run_after=2024-07-01 12:32:00+00:00
+[2024-07-01T18:02:42.169+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.037 seconds
+[2024-07-01T18:03:56.887+0530] {processor.py:161} INFO - Started process (PID=13396) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:03:56.888+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:03:56.889+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:56.889+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:03:56.892+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:03:56.897+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:56.897+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:03:56.905+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:56.905+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:30:00+00:00, run_after=2024-07-01 12:32:00+00:00
+[2024-07-01T18:03:56.914+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.034 seconds
+[2024-07-01T18:05:16.281+0530] {processor.py:161} INFO - Started process (PID=13927) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:05:16.282+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:05:16.283+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:16.283+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:05:16.288+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:05:16.295+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:16.295+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:05:16.302+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:16.302+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:32:00+00:00, run_after=2024-07-01 12:34:00+00:00
+[2024-07-01T18:05:16.311+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.034 seconds
+[2024-07-01T18:06:30.034+0530] {processor.py:161} INFO - Started process (PID=14060) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:06:30.035+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:06:30.035+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:30.035+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:06:30.037+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:06:30.043+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:30.043+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:06:30.050+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:30.050+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:34:00+00:00, run_after=2024-07-01 12:36:00+00:00
+[2024-07-01T18:06:30.060+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.028 seconds
+[2024-07-01T18:07:47.611+0530] {processor.py:161} INFO - Started process (PID=14160) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:07:47.611+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:07:47.612+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:47.612+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:07:47.617+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:07:47.624+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:47.624+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:07:47.631+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:47.631+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:34:00+00:00, run_after=2024-07-01 12:36:00+00:00
+[2024-07-01T18:07:47.640+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.033 seconds
+[2024-07-01T18:09:04.542+0530] {processor.py:161} INFO - Started process (PID=14365) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:09:04.543+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:09:04.544+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:04.544+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:09:04.547+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:09:04.553+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:04.553+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:09:04.561+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:04.561+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:36:00+00:00, run_after=2024-07-01 12:38:00+00:00
+[2024-07-01T18:09:04.570+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.035 seconds
+[2024-07-01T18:10:23.439+0530] {processor.py:161} INFO - Started process (PID=14505) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:10:23.439+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:10:23.440+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:23.440+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:10:23.442+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:10:23.447+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:23.447+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:10:23.455+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:23.455+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:38:00+00:00, run_after=2024-07-01 12:40:00+00:00
+[2024-07-01T18:10:23.464+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.031 seconds
+[2024-07-01T18:11:41.794+0530] {processor.py:161} INFO - Started process (PID=14699) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:11:41.794+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:11:41.795+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:41.795+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:11:41.799+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:11:41.808+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:41.808+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:11:41.820+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:41.820+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:38:00+00:00, run_after=2024-07-01 12:40:00+00:00
+[2024-07-01T18:11:41.829+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.040 seconds
+[2024-07-01T18:12:57.633+0530] {processor.py:161} INFO - Started process (PID=15130) to work on /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:12:57.634+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/async_dag.py for tasks to queue
+[2024-07-01T18:12:57.634+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:57.634+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:12:57.636+0530] {processor.py:840} INFO - DAG(s) 'async_dag' retrieved from /home/bharat/airflow/dags/async_dag.py
+[2024-07-01T18:12:57.642+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:57.642+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:12:57.649+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:57.649+0530] {dag.py:3954} INFO - Setting next_dagrun for async_dag to 2024-07-01 12:40:00+00:00, run_after=2024-07-01 12:42:00+00:00
+[2024-07-01T18:12:57.659+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/async_dag.py took 0.029 seconds

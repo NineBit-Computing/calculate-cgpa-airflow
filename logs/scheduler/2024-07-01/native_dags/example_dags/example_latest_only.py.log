@@ -1,0 +1,189 @@
+[2024-07-01T17:48:34.564+0530] {processor.py:161} INFO - Started process (PID=11005) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:48:34.565+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:48:34.565+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:34.565+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:48:34.568+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:48:34.649+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:34.649+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:48:34.655+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:34.655+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:48:34.664+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.103 seconds
+[2024-07-01T17:49:41.992+0530] {processor.py:161} INFO - Started process (PID=11387) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:49:41.993+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:49:41.994+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:41.993+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:49:41.996+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:49:42.062+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:42.062+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:49:42.070+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:42.070+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:49:42.079+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.091 seconds
+[2024-07-01T17:50:37.374+0530] {processor.py:161} INFO - Started process (PID=11465) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:50:37.375+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:50:37.375+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:37.375+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:50:37.378+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:50:37.384+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:37.384+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:50:37.391+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:37.391+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:50:37.400+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2024-07-01T17:51:41.909+0530] {processor.py:161} INFO - Started process (PID=11676) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:51:41.910+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:51:41.911+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:41.910+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:51:41.915+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:51:41.924+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:41.923+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:51:41.934+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:41.934+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:51:41.944+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.038 seconds
+[2024-07-01T17:52:55.091+0530] {processor.py:161} INFO - Started process (PID=12062) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:52:55.091+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:52:55.092+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:55.092+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:52:55.094+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:52:55.100+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:55.100+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:52:55.107+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:55.107+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:52:55.117+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2024-07-01T17:53:58.277+0530] {processor.py:161} INFO - Started process (PID=12440) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:53:58.278+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:53:58.279+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:58.279+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:53:58.284+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:53:58.293+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:58.293+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:53:58.300+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:58.300+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:53:58.309+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.036 seconds
+[2024-07-01T17:55:00.654+0530] {processor.py:161} INFO - Started process (PID=12566) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:55:00.655+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:55:00.655+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:00.655+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:55:00.657+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:55:00.663+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:00.663+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:55:00.671+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:00.671+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:55:00.680+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.032 seconds
+[2024-07-01T17:55:53.950+0530] {processor.py:161} INFO - Started process (PID=12647) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:55:53.951+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:55:53.952+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:53.952+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:55:53.955+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:55:53.962+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:53.961+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:55:53.969+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:53.969+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:55:53.978+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.037 seconds
+[2024-07-01T17:56:46.370+0530] {processor.py:161} INFO - Started process (PID=12720) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:56:46.371+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:56:46.372+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:46.372+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:56:46.375+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:56:46.381+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:46.381+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:56:46.388+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:46.388+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:56:46.398+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.034 seconds
+[2024-07-01T17:57:39.670+0530] {processor.py:161} INFO - Started process (PID=12794) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:57:39.670+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:57:39.671+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:39.671+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:57:39.673+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:57:39.679+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:39.679+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:57:39.686+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:39.686+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:57:39.696+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2024-07-01T17:58:32.450+0530] {processor.py:161} INFO - Started process (PID=12895) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:58:32.450+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:58:32.452+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:32.451+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:58:32.456+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:58:32.464+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:32.464+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:58:32.471+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:32.471+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:58:32.481+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.036 seconds
+[2024-07-01T17:59:23.146+0530] {processor.py:161} INFO - Started process (PID=12965) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:59:23.146+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T17:59:23.147+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:23.147+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:59:23.149+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T17:59:23.155+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:23.155+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:59:23.162+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:23.162+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T17:59:23.171+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.030 seconds
+[2024-07-01T18:00:13.786+0530] {processor.py:161} INFO - Started process (PID=13042) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:00:13.787+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:00:13.789+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:13.788+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:00:13.792+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:00:13.798+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:13.798+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:00:13.805+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:13.805+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:00:13.815+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.037 seconds
+[2024-07-01T18:01:07.048+0530] {processor.py:161} INFO - Started process (PID=13117) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:01:07.049+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:01:07.050+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:07.050+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:01:07.054+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:01:07.063+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:07.063+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:01:07.072+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:07.072+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:01:07.082+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.036 seconds
+[2024-07-01T18:01:58.997+0530] {processor.py:161} INFO - Started process (PID=13190) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:01:58.998+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:01:58.999+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:58.998+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:01:59.001+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:01:59.006+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:59.006+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:01:59.014+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:59.013+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:01:59.023+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.031 seconds
+[2024-07-01T18:02:52.436+0530] {processor.py:161} INFO - Started process (PID=13263) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:02:52.437+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:02:52.438+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:52.438+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:02:52.443+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:02:52.457+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:52.457+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:02:52.465+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:52.465+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:02:52.474+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2024-07-01T18:03:42.882+0530] {processor.py:161} INFO - Started process (PID=13362) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:03:42.883+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:03:42.885+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:42.884+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:03:42.888+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:03:42.894+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:42.894+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:03:42.901+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:42.901+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:03:42.911+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.036 seconds
+[2024-07-01T18:04:35.259+0530] {processor.py:161} INFO - Started process (PID=13441) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:04:35.259+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:04:35.260+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:35.260+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:04:35.262+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:04:35.268+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:35.268+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:04:35.275+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:35.275+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:04:35.284+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.031 seconds
+[2024-07-01T18:05:28.224+0530] {processor.py:161} INFO - Started process (PID=13940) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:05:28.225+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:05:28.227+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:28.227+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:05:28.231+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:05:28.237+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:28.237+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:05:28.245+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:28.245+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:05:28.254+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.037 seconds
+[2024-07-01T18:06:16.936+0530] {processor.py:161} INFO - Started process (PID=14027) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:06:16.936+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:06:16.937+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:16.937+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:06:16.939+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:06:16.946+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:16.946+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:06:16.954+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:16.954+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:06:16.965+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.033 seconds
+[2024-07-01T18:07:07.787+0530] {processor.py:161} INFO - Started process (PID=14100) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:07:07.788+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:07:07.788+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:07.788+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:07:07.790+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:07:07.802+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:07.802+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:07:07.810+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:07.810+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:07:07.819+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.038 seconds
+[2024-07-01T18:07:57.735+0530] {processor.py:161} INFO - Started process (PID=14171) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:07:57.736+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:07:57.737+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:57.736+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:07:57.739+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:07:57.744+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:57.744+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:07:57.751+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:57.751+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:07:57.761+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.032 seconds
+[2024-07-01T18:08:49.523+0530] {processor.py:161} INFO - Started process (PID=14275) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:08:49.523+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:08:49.524+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:49.524+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:08:49.526+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:08:49.534+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:49.534+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:08:49.542+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:49.541+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:08:49.551+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.031 seconds
+[2024-07-01T18:09:43.384+0530] {processor.py:161} INFO - Started process (PID=14434) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:09:43.385+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:09:43.386+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:43.386+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:09:43.391+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:09:43.398+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:43.398+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:09:43.406+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:43.406+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:09:43.415+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.037 seconds
+[2024-07-01T18:10:34.432+0530] {processor.py:161} INFO - Started process (PID=14523) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:10:34.433+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:10:34.434+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:34.433+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:10:34.438+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:10:34.446+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:34.446+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:10:34.453+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:34.453+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:10:34.462+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.036 seconds
+[2024-07-01T18:11:27.490+0530] {processor.py:161} INFO - Started process (PID=14640) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:11:27.491+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:11:27.492+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:27.491+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:11:27.494+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:11:27.502+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:27.502+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:11:27.509+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:27.509+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:11:27.519+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.032 seconds
+[2024-07-01T18:12:20.325+0530] {processor.py:161} INFO - Started process (PID=14781) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:12:20.326+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-07-01T18:12:20.328+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:20.328+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:12:20.332+0530] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-07-01T18:12:20.338+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:20.338+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:12:20.345+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:20.345+0530] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-07-01 08:00:00+00:00, run_after=2024-07-01 12:00:00+00:00
+[2024-07-01T18:12:20.357+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds

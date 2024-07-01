@@ -1,0 +1,196 @@
+[2024-07-01T17:48:13.679+0530] {processor.py:161} INFO - Started process (PID=10903) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:48:13.680+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:48:13.680+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:13.680+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:48:13.684+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:48:13.718+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:13.718+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:48:13.724+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:13.724+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:48:13.734+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2024-07-01T17:49:20.329+0530] {processor.py:161} INFO - Started process (PID=11363) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:49:20.330+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:49:20.331+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:20.331+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:49:20.335+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:49:20.341+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:20.341+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:49:20.395+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:20.395+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:49:20.405+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.084 seconds
+[2024-07-01T17:50:15.685+0530] {processor.py:161} INFO - Started process (PID=11442) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:50:15.686+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:50:15.687+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:15.686+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:50:15.694+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:50:15.702+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:15.702+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:50:15.709+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:15.709+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:50:15.719+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.041 seconds
+[2024-07-01T17:51:06.822+0530] {processor.py:161} INFO - Started process (PID=11523) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:51:06.822+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:51:06.824+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:06.823+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:51:06.827+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:51:06.832+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:06.832+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:51:06.839+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:06.839+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:51:06.849+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.033 seconds
+[2024-07-01T17:52:17.854+0530] {processor.py:161} INFO - Started process (PID=12024) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:52:17.855+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:52:17.857+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:17.856+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:52:17.861+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:52:17.867+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:17.867+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:52:17.874+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:17.874+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:52:17.883+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.037 seconds
+[2024-07-01T17:53:13.404+0530] {processor.py:161} INFO - Started process (PID=12130) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:53:13.405+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:53:13.407+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:13.406+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:53:13.411+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:53:13.417+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:13.417+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:53:13.425+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:13.425+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:53:13.434+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.040 seconds
+[2024-07-01T17:54:21.115+0530] {processor.py:161} INFO - Started process (PID=12515) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:54:21.116+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:54:21.116+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:21.116+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:54:21.119+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:54:21.124+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:21.124+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:54:21.131+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:21.131+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:54:21.141+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.030 seconds
+[2024-07-01T17:54:59.522+0530] {processor.py:161} INFO - Started process (PID=12565) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:54:59.523+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:54:59.525+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:59.524+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:54:59.530+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:54:59.537+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:59.537+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:54:59.544+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:59.544+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:54:59.554+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.035 seconds
+[2024-07-01T17:55:53.341+0530] {processor.py:161} INFO - Started process (PID=12646) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:55:53.341+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:55:53.342+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:53.342+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:55:53.344+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:55:53.350+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:53.350+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:55:53.357+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:53.357+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:55:53.367+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.030 seconds
+[2024-07-01T17:56:45.228+0530] {processor.py:161} INFO - Started process (PID=12719) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:56:45.229+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:56:45.231+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:45.231+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:56:45.235+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:56:45.242+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:45.242+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:56:45.249+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:45.249+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:56:45.258+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.038 seconds
+[2024-07-01T17:57:38.520+0530] {processor.py:161} INFO - Started process (PID=12793) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:57:38.520+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:57:38.522+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:38.521+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:57:38.527+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:57:38.534+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:38.534+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:57:38.541+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:38.541+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:57:38.550+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.036 seconds
+[2024-07-01T17:58:31.309+0530] {processor.py:161} INFO - Started process (PID=12894) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:58:31.309+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:58:31.310+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:31.310+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:58:31.315+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:58:31.321+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:31.321+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:58:31.329+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:31.328+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:58:31.338+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.035 seconds
+[2024-07-01T17:59:22.014+0530] {processor.py:161} INFO - Started process (PID=12964) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:59:22.015+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T17:59:22.016+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:22.016+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:59:22.021+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T17:59:22.029+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:22.029+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:59:22.036+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:22.036+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:59:22.046+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.037 seconds
+[2024-07-01T18:00:13.019+0530] {processor.py:161} INFO - Started process (PID=13041) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:00:13.019+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:00:13.021+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:13.020+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:00:13.024+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:00:13.030+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:13.030+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:00:13.037+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:13.037+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:00:13.046+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.034 seconds
+[2024-07-01T18:01:05.921+0530] {processor.py:161} INFO - Started process (PID=13116) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:01:05.922+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:01:05.924+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:05.923+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:01:05.928+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:01:05.934+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:05.934+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:01:05.941+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:05.940+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:01:05.950+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.036 seconds
+[2024-07-01T18:01:58.404+0530] {processor.py:161} INFO - Started process (PID=13189) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:01:58.405+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:01:58.406+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:58.405+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:01:58.411+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:01:58.419+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:58.418+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:01:58.426+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:58.426+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:01:58.435+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.035 seconds
+[2024-07-01T18:02:51.294+0530] {processor.py:161} INFO - Started process (PID=13262) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:02:51.295+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:02:51.296+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:51.296+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:02:51.300+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:02:51.305+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:51.305+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:02:51.312+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:51.312+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:02:51.322+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.034 seconds
+[2024-07-01T18:03:41.738+0530] {processor.py:161} INFO - Started process (PID=13361) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:03:41.738+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:03:41.739+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:41.739+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:03:41.741+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:03:41.747+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:41.747+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:03:41.754+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:41.754+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:03:41.764+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.032 seconds
+[2024-07-01T18:04:33.135+0530] {processor.py:161} INFO - Started process (PID=13439) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:04:33.135+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:04:33.136+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:33.136+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:04:33.140+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:04:33.146+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:33.145+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:04:33.152+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:33.152+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:04:33.162+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.033 seconds
+[2024-07-01T18:05:25.959+0530] {processor.py:161} INFO - Started process (PID=13938) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:05:25.959+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:05:25.960+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:25.960+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:05:25.962+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:05:25.968+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:25.968+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:05:25.976+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:25.976+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:05:25.985+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.032 seconds
+[2024-07-01T18:06:15.348+0530] {processor.py:161} INFO - Started process (PID=14025) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:06:15.348+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:06:15.349+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:15.349+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:06:15.352+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:06:15.357+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:15.357+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:06:15.365+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:15.364+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:06:15.375+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.029 seconds
+[2024-07-01T18:07:05.912+0530] {processor.py:161} INFO - Started process (PID=14098) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:07:05.913+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:07:05.913+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:05.913+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:07:05.916+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:07:05.922+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:05.921+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:07:05.929+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:05.929+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:07:05.938+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.030 seconds
+[2024-07-01T18:07:55.457+0530] {processor.py:161} INFO - Started process (PID=14169) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:07:55.458+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:07:55.459+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:55.458+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:07:55.466+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:07:55.475+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:55.475+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:07:55.482+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:55.482+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:07:55.492+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.038 seconds
+[2024-07-01T18:08:46.845+0530] {processor.py:161} INFO - Started process (PID=14271) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:08:46.846+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:08:46.847+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:46.846+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:08:46.852+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:08:46.860+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:46.860+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:08:46.869+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:46.869+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:08:46.881+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.042 seconds
+[2024-07-01T18:09:40.271+0530] {processor.py:161} INFO - Started process (PID=14431) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:09:40.272+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:09:40.273+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:40.272+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:09:40.278+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:09:40.286+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:40.286+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:09:40.293+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:40.293+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:09:40.302+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.036 seconds
+[2024-07-01T18:10:32.298+0530] {processor.py:161} INFO - Started process (PID=14516) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:10:32.298+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:10:32.299+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:32.299+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:10:32.305+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:10:32.311+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:32.311+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:10:32.318+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:32.318+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:10:32.328+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.033 seconds
+[2024-07-01T18:11:24.613+0530] {processor.py:161} INFO - Started process (PID=14634) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:11:24.613+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:11:24.614+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:24.614+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:11:24.616+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:11:24.623+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:24.623+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:11:24.634+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:24.634+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:11:24.646+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.039 seconds
+[2024-07-01T18:12:17.616+0530] {processor.py:161} INFO - Started process (PID=14775) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:12:17.616+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-07-01T18:12:17.618+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:17.617+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:12:17.623+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-07-01T18:12:17.630+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:17.630+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:12:17.638+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:17.637+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:12:17.649+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.038 seconds

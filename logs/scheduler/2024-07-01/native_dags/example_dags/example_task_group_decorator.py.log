@@ -1,0 +1,203 @@
+[2024-07-01T17:48:12.550+0530] {processor.py:161} INFO - Started process (PID=10886) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:48:12.550+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:48:12.551+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:12.550+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:48:12.557+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:48:12.594+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:12.594+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:48:12.600+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:12.600+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:48:12.609+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2024-07-01T17:49:19.182+0530] {processor.py:161} INFO - Started process (PID=11362) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:49:19.182+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:49:19.183+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:19.183+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:49:19.189+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:49:19.196+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:19.196+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:49:19.249+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:19.249+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:49:19.258+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.081 seconds
+[2024-07-01T17:49:58.616+0530] {processor.py:161} INFO - Started process (PID=11422) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:49:58.617+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:49:58.618+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:58.618+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:49:58.625+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:49:58.632+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:58.632+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:49:58.639+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:58.639+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:49:58.649+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.038 seconds
+[2024-07-01T17:50:48.808+0530] {processor.py:161} INFO - Started process (PID=11481) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:50:48.808+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:50:48.809+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:48.809+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:50:48.815+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:50:48.823+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:48.823+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:50:48.830+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:48.830+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:50:48.841+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.037 seconds
+[2024-07-01T17:51:40.770+0530] {processor.py:161} INFO - Started process (PID=11675) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:51:40.771+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:51:40.772+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:40.772+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:51:40.778+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:51:40.786+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:40.785+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:51:40.793+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:40.793+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:51:40.802+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.036 seconds
+[2024-07-01T17:52:16.716+0530] {processor.py:161} INFO - Started process (PID=12023) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:52:16.718+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:52:16.720+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:16.719+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:52:16.735+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:52:16.743+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:16.743+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:52:16.750+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:16.750+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:52:16.760+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.053 seconds
+[2024-07-01T17:53:12.268+0530] {processor.py:161} INFO - Started process (PID=12129) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:53:12.269+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:53:12.269+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:12.269+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:53:12.275+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:53:12.282+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:12.282+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:53:12.289+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:12.289+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:53:12.299+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.033 seconds
+[2024-07-01T17:54:20.523+0530] {processor.py:161} INFO - Started process (PID=12514) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:54:20.524+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:54:20.525+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:20.525+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:54:20.536+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:54:20.544+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:20.544+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:54:20.551+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:20.551+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:54:20.561+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2024-07-01T17:54:58.391+0530] {processor.py:161} INFO - Started process (PID=12564) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:54:58.392+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:54:58.392+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:58.392+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:54:58.398+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:54:58.405+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:58.405+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:54:58.413+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:58.413+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:54:58.424+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.039 seconds
+[2024-07-01T17:55:52.209+0530] {processor.py:161} INFO - Started process (PID=12645) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:55:52.210+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:55:52.211+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:52.211+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:55:52.222+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:55:52.229+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:52.229+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:55:52.236+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:52.236+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:55:52.246+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.042 seconds
+[2024-07-01T17:56:44.214+0530] {processor.py:161} INFO - Started process (PID=12718) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:56:44.215+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:56:44.216+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:44.216+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:56:44.224+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:56:44.231+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:44.231+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:56:44.238+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:44.238+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:56:44.248+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.042 seconds
+[2024-07-01T17:57:37.771+0530] {processor.py:161} INFO - Started process (PID=12792) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:57:37.771+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:57:37.772+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:37.772+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:57:37.778+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:57:37.785+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:37.785+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:57:37.792+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:37.792+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:57:37.801+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.036 seconds
+[2024-07-01T17:58:30.177+0530] {processor.py:161} INFO - Started process (PID=12893) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:58:30.177+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:58:30.178+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:30.178+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:58:30.184+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:58:30.191+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:30.191+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:58:30.198+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:30.198+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:58:30.208+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.037 seconds
+[2024-07-01T17:59:20.874+0530] {processor.py:161} INFO - Started process (PID=12963) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:59:20.874+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T17:59:20.875+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:20.875+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:59:20.881+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T17:59:20.890+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:20.890+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:59:20.897+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:20.897+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T17:59:20.907+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.036 seconds
+[2024-07-01T18:00:11.885+0530] {processor.py:161} INFO - Started process (PID=13040) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:00:11.885+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:00:11.886+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:11.886+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:00:11.893+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:00:11.900+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:11.900+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:00:11.907+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:11.907+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:00:11.916+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.036 seconds
+[2024-07-01T18:01:05.662+0530] {processor.py:161} INFO - Started process (PID=13115) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:01:05.663+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:01:05.664+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:05.663+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:01:05.670+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:01:05.677+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:05.677+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:01:05.684+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:05.684+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:01:05.694+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.037 seconds
+[2024-07-01T18:01:57.261+0530] {processor.py:161} INFO - Started process (PID=13188) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:01:57.262+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:01:57.263+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:57.263+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:01:57.270+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:01:57.277+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:57.277+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:01:57.284+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:57.284+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:01:57.294+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.039 seconds
+[2024-07-01T18:02:50.151+0530] {processor.py:161} INFO - Started process (PID=13261) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:02:50.151+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:02:50.152+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:50.152+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:02:50.159+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:02:50.166+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:50.166+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:02:50.173+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:50.173+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:02:50.182+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.037 seconds
+[2024-07-01T18:03:41.138+0530] {processor.py:161} INFO - Started process (PID=13360) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:03:41.139+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:03:41.140+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:41.139+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:03:41.146+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:03:41.153+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:41.153+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:03:41.160+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:41.160+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:03:41.170+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.034 seconds
+[2024-07-01T18:04:32.001+0530] {processor.py:161} INFO - Started process (PID=13438) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:04:32.002+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:04:32.003+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:32.003+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:04:32.010+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:04:32.018+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:32.018+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:04:32.025+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:32.025+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:04:32.034+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.039 seconds
+[2024-07-01T18:05:24.814+0530] {processor.py:161} INFO - Started process (PID=13937) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:05:24.815+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:05:24.816+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:24.816+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:05:24.823+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:05:24.830+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:24.830+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:05:24.838+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:24.838+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:05:24.847+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.038 seconds
+[2024-07-01T18:06:14.562+0530] {processor.py:161} INFO - Started process (PID=14024) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:06:14.563+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:06:14.564+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:14.563+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:06:14.569+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:06:14.577+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:14.577+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:06:14.584+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:14.584+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:06:14.593+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.035 seconds
+[2024-07-01T18:07:04.923+0530] {processor.py:161} INFO - Started process (PID=14097) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:07:04.924+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:07:04.925+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:04.924+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:07:04.930+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:07:04.938+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:04.938+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:07:04.945+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:04.945+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:07:04.954+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.037 seconds
+[2024-07-01T18:07:54.306+0530] {processor.py:161} INFO - Started process (PID=14168) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:07:54.307+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:07:54.308+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:54.307+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:07:54.318+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:07:54.325+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:54.325+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:07:54.332+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:54.332+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:07:54.345+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds
+[2024-07-01T18:08:45.706+0530] {processor.py:161} INFO - Started process (PID=14270) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:08:45.707+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:08:45.708+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:45.708+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:08:45.714+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:08:45.721+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:45.721+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:08:45.728+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:45.728+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:08:45.738+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.037 seconds
+[2024-07-01T18:09:39.130+0530] {processor.py:161} INFO - Started process (PID=14430) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:09:39.131+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:09:39.131+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:39.131+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:09:39.137+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:09:39.144+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:39.144+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:09:39.151+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:39.151+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:09:39.161+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.036 seconds
+[2024-07-01T18:10:31.156+0530] {processor.py:161} INFO - Started process (PID=14513) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:10:31.157+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:10:31.158+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:31.158+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:10:31.168+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:10:31.175+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:31.175+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:10:31.182+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:31.182+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:10:31.192+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.041 seconds
+[2024-07-01T18:11:23.474+0530] {processor.py:161} INFO - Started process (PID=14632) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:11:23.475+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:11:23.477+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:23.476+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:11:23.486+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:11:23.494+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:23.493+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:11:23.501+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:23.501+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:11:23.511+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.047 seconds
+[2024-07-01T18:12:16.462+0530] {processor.py:161} INFO - Started process (PID=14774) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:12:16.463+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-07-01T18:12:16.464+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:16.464+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:12:16.471+0530] {processor.py:840} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-07-01T18:12:16.478+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:16.478+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:12:16.486+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:16.486+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group_decorator to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T18:12:16.497+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.038 seconds

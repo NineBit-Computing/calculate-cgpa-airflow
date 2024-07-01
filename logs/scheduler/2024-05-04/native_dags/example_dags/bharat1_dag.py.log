@@ -1,0 +1,371 @@
+[2024-05-04T12:09:44.905+0530] {processor.py:161} INFO - Started process (PID=6952) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:09:44.907+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:09:44.909+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:09:44.909+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:09:44.916+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:09:44.925+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:09:44.925+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:09:44.932+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:09:44.932+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:36:00+00:00, run_after=2024-05-04 06:38:00+00:00
+[2024-05-04T12:09:44.943+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.049 seconds
+[2024-05-04T12:10:40.490+0530] {processor.py:161} INFO - Started process (PID=7518) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:10:40.491+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:10:40.491+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:10:40.491+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:10:40.494+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:10:40.500+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:10:40.500+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:10:40.512+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:10:40.512+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:38:00+00:00, run_after=2024-05-04 06:40:00+00:00
+[2024-05-04T12:10:40.523+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.037 seconds
+[2024-05-04T12:11:32.956+0530] {processor.py:161} INFO - Started process (PID=7715) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:11:32.957+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:11:32.957+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:11:32.957+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:11:32.960+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:11:32.966+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:11:32.966+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:11:32.973+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:11:32.973+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:38:00+00:00, run_after=2024-05-04 06:40:00+00:00
+[2024-05-04T12:11:32.983+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.031 seconds
+[2024-05-04T12:12:42.520+0530] {processor.py:161} INFO - Started process (PID=8535) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:12:42.521+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:12:42.522+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:12:42.522+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:12:42.527+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:12:42.534+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:12:42.534+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:12:42.542+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:12:42.542+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:40:00+00:00, run_after=2024-05-04 06:42:00+00:00
+[2024-05-04T12:12:42.552+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.035 seconds
+[2024-05-04T12:13:41.908+0530] {processor.py:161} INFO - Started process (PID=9043) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:13:41.909+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:13:41.911+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:13:41.910+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:13:41.921+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:13:41.933+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:13:41.933+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:13:41.941+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:13:41.940+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:40:00+00:00, run_after=2024-05-04 06:42:00+00:00
+[2024-05-04T12:13:41.950+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.053 seconds
+[2024-05-04T12:14:32.665+0530] {processor.py:161} INFO - Started process (PID=9182) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:14:32.666+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:14:32.666+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:14:32.666+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:14:32.669+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:14:32.675+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:14:32.675+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:14:32.683+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:14:32.683+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:42:00+00:00, run_after=2024-05-04 06:44:00+00:00
+[2024-05-04T12:14:32.693+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.033 seconds
+[2024-05-04T12:15:24.302+0530] {processor.py:161} INFO - Started process (PID=9384) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:15:24.302+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:15:24.305+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:15:24.304+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:15:24.309+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:15:24.316+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:15:24.316+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:15:24.324+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:15:24.324+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:42:00+00:00, run_after=2024-05-04 06:44:00+00:00
+[2024-05-04T12:15:24.333+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.037 seconds
+[2024-05-04T12:16:13.061+0530] {processor.py:161} INFO - Started process (PID=9506) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:16:13.062+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:16:13.063+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:16:13.063+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:16:13.067+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:16:13.073+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:16:13.073+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:16:13.080+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:16:13.080+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:44:00+00:00, run_after=2024-05-04 06:46:00+00:00
+[2024-05-04T12:16:13.090+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.036 seconds
+[2024-05-04T12:17:04.607+0530] {processor.py:161} INFO - Started process (PID=9733) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:17:04.607+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:17:04.608+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:17:04.608+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:17:04.611+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:17:04.617+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:17:04.617+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:17:04.625+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:17:04.625+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:44:00+00:00, run_after=2024-05-04 06:46:00+00:00
+[2024-05-04T12:17:04.636+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.032 seconds
+[2024-05-04T12:18:04.772+0530] {processor.py:161} INFO - Started process (PID=10456) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:18:04.773+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:18:04.774+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:18:04.774+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:18:04.780+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:18:04.794+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:18:04.794+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:18:04.801+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:18:04.801+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:46:00+00:00, run_after=2024-05-04 06:48:00+00:00
+[2024-05-04T12:18:04.811+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.044 seconds
+[2024-05-04T12:18:43.581+0530] {processor.py:161} INFO - Started process (PID=10830) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:18:43.582+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:18:43.583+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:18:43.583+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:18:43.586+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:18:43.595+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:18:43.595+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:18:43.603+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:18:43.603+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:46:00+00:00, run_after=2024-05-04 06:48:00+00:00
+[2024-05-04T12:18:43.615+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.038 seconds
+[2024-05-04T12:19:38.293+0530] {processor.py:161} INFO - Started process (PID=10958) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:19:38.293+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:19:38.294+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:19:38.294+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:19:38.300+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:19:38.307+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:19:38.306+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:19:38.314+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:19:38.314+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:46:00+00:00, run_after=2024-05-04 06:48:00+00:00
+[2024-05-04T12:19:38.324+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.036 seconds
+[2024-05-04T12:20:27.385+0530] {processor.py:161} INFO - Started process (PID=11108) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:20:27.385+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:20:27.386+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:20:27.386+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:20:27.389+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:20:27.396+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:20:27.396+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:20:27.404+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:20:27.403+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:48:00+00:00, run_after=2024-05-04 06:50:00+00:00
+[2024-05-04T12:20:27.413+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.033 seconds
+[2024-05-04T12:21:21.395+0530] {processor.py:161} INFO - Started process (PID=11230) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:21:21.396+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:21:21.399+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:21:21.399+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:21:21.404+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:21:21.415+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:21:21.415+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:21:21.422+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:21:21.422+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:48:00+00:00, run_after=2024-05-04 06:50:00+00:00
+[2024-05-04T12:21:21.432+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.040 seconds
+[2024-05-04T12:22:13.107+0530] {processor.py:161} INFO - Started process (PID=11349) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:22:13.108+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:22:13.110+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:22:13.110+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:22:13.113+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:22:13.119+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:22:13.119+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:22:13.126+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:22:13.126+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:50:00+00:00, run_after=2024-05-04 06:52:00+00:00
+[2024-05-04T12:22:13.136+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.035 seconds
+[2024-05-04T12:23:04.425+0530] {processor.py:161} INFO - Started process (PID=11473) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:23:04.425+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:23:04.426+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:23:04.426+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:23:04.428+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:23:04.434+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:23:04.434+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:23:04.441+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:23:04.441+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:50:00+00:00, run_after=2024-05-04 06:52:00+00:00
+[2024-05-04T12:23:04.451+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.033 seconds
+[2024-05-04T12:23:54.567+0530] {processor.py:161} INFO - Started process (PID=11600) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:23:54.569+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:23:54.573+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:23:54.571+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:23:54.580+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:23:54.587+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:23:54.587+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:23:54.594+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:23:54.594+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:50:00+00:00, run_after=2024-05-04 06:52:00+00:00
+[2024-05-04T12:23:54.604+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.047 seconds
+[2024-05-04T12:24:45.264+0530] {processor.py:161} INFO - Started process (PID=11851) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:24:45.265+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:24:45.266+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:24:45.266+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:24:45.270+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:24:45.276+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:24:45.276+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:24:45.283+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:24:45.283+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:52:00+00:00, run_after=2024-05-04 06:54:00+00:00
+[2024-05-04T12:24:45.293+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.036 seconds
+[2024-05-04T12:25:35.562+0530] {processor.py:161} INFO - Started process (PID=11980) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:25:35.562+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:25:35.563+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:25:35.563+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:25:35.568+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:25:35.575+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:25:35.575+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:25:35.583+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:25:35.583+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:52:00+00:00, run_after=2024-05-04 06:54:00+00:00
+[2024-05-04T12:25:35.595+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.038 seconds
+[2024-05-04T12:26:24.338+0530] {processor.py:161} INFO - Started process (PID=12102) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:26:24.338+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:26:24.339+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:26:24.339+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:26:24.342+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:26:24.347+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:26:24.347+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:26:24.355+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:26:24.355+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:54:00+00:00, run_after=2024-05-04 06:56:00+00:00
+[2024-05-04T12:26:24.365+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.032 seconds
+[2024-05-04T12:27:17.792+0530] {processor.py:161} INFO - Started process (PID=12231) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:27:17.793+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:27:17.794+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:27:17.794+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:27:17.796+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:27:17.802+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:27:17.802+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:27:17.809+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:27:17.809+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:54:00+00:00, run_after=2024-05-04 06:56:00+00:00
+[2024-05-04T12:27:17.819+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.032 seconds
+[2024-05-04T12:28:07.127+0530] {processor.py:161} INFO - Started process (PID=12358) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:28:07.128+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:28:07.129+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:28:07.128+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:28:07.131+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:28:07.136+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:28:07.136+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:28:07.144+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:28:07.144+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:56:00+00:00, run_after=2024-05-04 06:58:00+00:00
+[2024-05-04T12:28:07.154+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.033 seconds
+[2024-05-04T12:28:56.236+0530] {processor.py:161} INFO - Started process (PID=12477) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:28:56.237+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:28:56.239+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:28:56.238+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:28:56.243+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:28:56.249+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:28:56.249+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:28:56.256+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:28:56.256+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:56:00+00:00, run_after=2024-05-04 06:58:00+00:00
+[2024-05-04T12:28:56.266+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.038 seconds
+[2024-05-04T12:29:44.375+0530] {processor.py:161} INFO - Started process (PID=12619) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:29:44.375+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:29:44.376+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:29:44.376+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:29:44.379+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:29:44.385+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:29:44.384+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:29:44.392+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:29:44.392+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:56:00+00:00, run_after=2024-05-04 06:58:00+00:00
+[2024-05-04T12:29:44.402+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.033 seconds
+[2024-05-04T12:30:32.996+0530] {processor.py:161} INFO - Started process (PID=12747) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:30:32.997+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:30:32.998+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:30:32.998+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:30:33.001+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:30:33.007+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:30:33.007+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:30:33.015+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:30:33.015+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:58:00+00:00, run_after=2024-05-04 07:00:00+00:00
+[2024-05-04T12:30:33.024+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.035 seconds
+[2024-05-04T12:31:25.256+0530] {processor.py:161} INFO - Started process (PID=12901) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:31:25.257+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:31:25.259+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:31:25.258+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:31:25.263+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:31:25.269+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:31:25.268+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:31:25.276+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:31:25.276+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 06:58:00+00:00, run_after=2024-05-04 07:00:00+00:00
+[2024-05-04T12:31:25.286+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.038 seconds
+[2024-05-04T12:32:16.651+0530] {processor.py:161} INFO - Started process (PID=13025) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:32:16.652+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:32:16.653+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:32:16.652+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:32:16.658+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:32:16.666+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:32:16.665+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:32:16.677+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:32:16.677+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:00:00+00:00, run_after=2024-05-04 07:02:00+00:00
+[2024-05-04T12:32:16.686+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.038 seconds
+[2024-05-04T12:33:07.634+0530] {processor.py:161} INFO - Started process (PID=13162) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:33:07.634+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:33:07.636+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:33:07.636+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:33:07.641+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:33:07.648+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:33:07.648+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:33:07.655+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:33:07.655+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:00:00+00:00, run_after=2024-05-04 07:02:00+00:00
+[2024-05-04T12:33:07.666+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.034 seconds
+[2024-05-04T12:33:59.631+0530] {processor.py:161} INFO - Started process (PID=13343) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:33:59.632+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:33:59.632+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:33:59.632+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:33:59.635+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:33:59.641+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:33:59.640+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:33:59.648+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:33:59.648+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:00:00+00:00, run_after=2024-05-04 07:02:00+00:00
+[2024-05-04T12:33:59.662+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.033 seconds
+[2024-05-04T12:34:52.221+0530] {processor.py:161} INFO - Started process (PID=13536) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:34:52.221+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:34:52.223+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:34:52.223+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:34:52.228+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:34:52.235+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:34:52.235+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:34:52.243+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:34:52.243+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:02:00+00:00, run_after=2024-05-04 07:04:00+00:00
+[2024-05-04T12:34:52.252+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.037 seconds
+[2024-05-04T12:35:43.587+0530] {processor.py:161} INFO - Started process (PID=13659) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:35:43.588+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:35:43.589+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:35:43.589+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:35:43.594+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:35:43.600+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:35:43.600+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:35:43.607+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:35:43.607+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:02:00+00:00, run_after=2024-05-04 07:04:00+00:00
+[2024-05-04T12:35:43.617+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.038 seconds
+[2024-05-04T12:36:31.281+0530] {processor.py:161} INFO - Started process (PID=13772) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:36:31.281+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:36:31.283+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:36:31.282+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:36:31.288+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:36:31.299+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:36:31.298+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:36:31.309+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:36:31.309+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:04:00+00:00, run_after=2024-05-04 07:06:00+00:00
+[2024-05-04T12:36:31.319+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.040 seconds
+[2024-05-04T12:37:24.043+0530] {processor.py:161} INFO - Started process (PID=13897) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:37:24.043+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:37:24.045+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:37:24.044+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:37:24.050+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:37:24.062+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:37:24.062+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:37:24.070+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:37:24.070+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:04:00+00:00, run_after=2024-05-04 07:06:00+00:00
+[2024-05-04T12:37:24.080+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.040 seconds
+[2024-05-04T12:38:16.960+0530] {processor.py:161} INFO - Started process (PID=14029) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:38:16.961+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:38:16.962+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:38:16.962+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:38:16.966+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:38:16.972+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:38:16.972+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:38:16.980+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:38:16.980+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:06:00+00:00, run_after=2024-05-04 07:08:00+00:00
+[2024-05-04T12:38:16.990+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.039 seconds
+[2024-05-04T12:39:10.035+0530] {processor.py:161} INFO - Started process (PID=14284) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:39:10.035+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:39:10.037+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:39:10.036+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:39:10.042+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:39:10.049+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:39:10.049+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:39:10.057+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:39:10.057+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:06:00+00:00, run_after=2024-05-04 07:08:00+00:00
+[2024-05-04T12:39:10.068+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.036 seconds
+[2024-05-04T12:40:02.340+0530] {processor.py:161} INFO - Started process (PID=14488) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:40:02.341+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:40:02.342+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:40:02.342+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:40:02.346+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:40:02.352+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:40:02.352+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:40:02.359+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:40:02.359+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:08:00+00:00, run_after=2024-05-04 07:10:00+00:00
+[2024-05-04T12:40:02.369+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.035 seconds
+[2024-05-04T12:40:51.696+0530] {processor.py:161} INFO - Started process (PID=14659) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:40:51.697+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:40:51.697+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:40:51.697+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:40:51.700+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:40:51.706+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:40:51.705+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:40:51.713+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:40:51.713+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:08:00+00:00, run_after=2024-05-04 07:10:00+00:00
+[2024-05-04T12:40:51.723+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.033 seconds
+[2024-05-04T12:41:44.478+0530] {processor.py:161} INFO - Started process (PID=14831) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:41:44.478+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:41:44.480+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:41:44.479+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:41:44.484+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:41:44.491+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:41:44.491+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:41:44.499+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:41:44.498+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:08:00+00:00, run_after=2024-05-04 07:10:00+00:00
+[2024-05-04T12:41:44.509+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.035 seconds
+[2024-05-04T12:42:32.169+0530] {processor.py:161} INFO - Started process (PID=14991) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:42:32.169+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:42:32.170+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:42:32.170+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:42:32.173+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:42:32.179+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:42:32.179+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:42:32.187+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:42:32.187+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:10:00+00:00, run_after=2024-05-04 07:12:00+00:00
+[2024-05-04T12:42:32.198+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.031 seconds
+[2024-05-04T12:43:25.541+0530] {processor.py:161} INFO - Started process (PID=15165) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:43:25.541+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:43:25.542+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:43:25.542+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:43:25.545+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:43:25.551+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:43:25.551+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:43:25.559+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:43:25.559+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:10:00+00:00, run_after=2024-05-04 07:12:00+00:00
+[2024-05-04T12:43:25.569+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.032 seconds
+[2024-05-04T12:44:16.012+0530] {processor.py:161} INFO - Started process (PID=15340) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:44:16.013+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:44:16.014+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:44:16.014+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:44:16.020+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:44:16.026+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:44:16.026+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:44:16.034+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:44:16.034+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:12:00+00:00, run_after=2024-05-04 07:14:00+00:00
+[2024-05-04T12:44:16.044+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.034 seconds
+[2024-05-04T12:45:06.373+0530] {processor.py:161} INFO - Started process (PID=15531) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:45:06.374+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:45:06.376+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:45:06.376+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:45:06.381+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:45:06.387+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:45:06.387+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:45:06.395+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:45:06.395+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:12:00+00:00, run_after=2024-05-04 07:14:00+00:00
+[2024-05-04T12:45:06.405+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.038 seconds
+[2024-05-04T12:45:54.964+0530] {processor.py:161} INFO - Started process (PID=15694) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:45:54.965+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:45:54.966+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:45:54.966+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:45:54.971+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:45:54.977+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:45:54.977+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:45:54.984+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:45:54.984+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:12:00+00:00, run_after=2024-05-04 07:14:00+00:00
+[2024-05-04T12:45:54.994+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.039 seconds
+[2024-05-04T12:46:45.685+0530] {processor.py:161} INFO - Started process (PID=15928) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:46:45.685+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:46:45.687+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:46:45.686+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:46:45.693+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:46:45.699+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:46:45.699+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:46:45.707+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:46:45.707+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:14:00+00:00, run_after=2024-05-04 07:16:00+00:00
+[2024-05-04T12:46:45.717+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.037 seconds
+[2024-05-04T12:47:38.916+0530] {processor.py:161} INFO - Started process (PID=16133) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:47:38.917+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:47:38.920+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:47:38.920+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:47:38.929+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:47:38.942+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:47:38.941+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:47:38.953+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:47:38.953+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:14:00+00:00, run_after=2024-05-04 07:16:00+00:00
+[2024-05-04T12:47:38.963+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.054 seconds
+[2024-05-04T12:48:29.743+0530] {processor.py:161} INFO - Started process (PID=16301) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:48:29.743+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:48:29.745+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:48:29.745+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:48:29.750+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:48:29.757+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:48:29.757+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:48:29.764+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:48:29.764+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:16:00+00:00, run_after=2024-05-04 07:18:00+00:00
+[2024-05-04T12:48:29.775+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.036 seconds
+[2024-05-04T12:49:21.139+0530] {processor.py:161} INFO - Started process (PID=16475) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:49:21.139+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:49:21.140+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:49:21.140+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:49:21.142+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:49:21.148+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:49:21.148+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:49:21.155+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:49:21.155+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:16:00+00:00, run_after=2024-05-04 07:18:00+00:00
+[2024-05-04T12:49:21.165+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.033 seconds
+[2024-05-04T12:50:14.745+0530] {processor.py:161} INFO - Started process (PID=16758) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:50:14.745+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:50:14.746+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:50:14.746+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:50:14.748+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:50:14.754+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:50:14.754+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:50:14.764+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:50:14.763+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:18:00+00:00, run_after=2024-05-04 07:20:00+00:00
+[2024-05-04T12:50:14.773+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.031 seconds
+[2024-05-04T12:51:04.776+0530] {processor.py:161} INFO - Started process (PID=16887) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:51:04.777+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:51:04.779+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:51:04.778+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:51:04.783+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:51:04.789+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:51:04.789+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:51:04.796+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:51:04.796+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:18:00+00:00, run_after=2024-05-04 07:20:00+00:00
+[2024-05-04T12:51:04.805+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.038 seconds
+[2024-05-04T12:51:55.057+0530] {processor.py:161} INFO - Started process (PID=17022) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:51:55.057+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:51:55.059+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:51:55.059+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:51:55.064+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:51:55.071+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:51:55.071+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:51:55.078+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:51:55.078+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:18:00+00:00, run_after=2024-05-04 07:20:00+00:00
+[2024-05-04T12:51:55.088+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.037 seconds
+[2024-05-04T12:52:46.864+0530] {processor.py:161} INFO - Started process (PID=17152) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:52:46.864+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:52:46.866+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:52:46.866+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:52:46.874+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:52:46.883+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:52:46.883+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:52:46.890+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:52:46.890+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:20:00+00:00, run_after=2024-05-04 07:22:00+00:00
+[2024-05-04T12:52:46.900+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.041 seconds
+[2024-05-04T12:53:37.540+0530] {processor.py:161} INFO - Started process (PID=17308) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:53:37.541+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:53:37.542+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:53:37.542+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:53:37.546+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:53:37.551+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:53:37.551+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:53:37.558+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:53:37.558+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:20:00+00:00, run_after=2024-05-04 07:22:00+00:00
+[2024-05-04T12:53:37.568+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.034 seconds
+[2024-05-04T12:54:28.438+0530] {processor.py:161} INFO - Started process (PID=17436) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:54:28.439+0530] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py for tasks to queue
+[2024-05-04T12:54:28.440+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:54:28.440+0530] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:54:28.446+0530] {processor.py:840} INFO - DAG(s) 'example_dag' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py
+[2024-05-04T12:54:28.452+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:54:28.452+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-04T12:54:28.460+0530] {logging_mixin.py:188} INFO - [2024-05-04T12:54:28.460+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag to 2024-05-04 07:22:00+00:00, run_after=2024-05-04 07:24:00+00:00
+[2024-05-04T12:54:28.469+0530] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/bharat1_dag.py took 0.037 seconds

@@ -1,0 +1,135 @@
+[2024-07-01T17:48:38.246+0530] {processor.py:161} INFO - Started process (PID=11009) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:48:38.246+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:48:38.247+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:38.247+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:48:38.462+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:48:38.465+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.221 seconds
+[2024-07-01T17:49:46.011+0530] {processor.py:161} INFO - Started process (PID=11391) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:49:46.012+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:49:46.013+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:46.013+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:49:46.227+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:49:46.229+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.220 seconds
+[2024-07-01T17:50:49.951+0530] {processor.py:161} INFO - Started process (PID=11482) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:50:49.951+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:50:49.953+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:49.952+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:50:50.125+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:50:50.129+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.183 seconds
+[2024-07-01T17:51:45.931+0530] {processor.py:161} INFO - Started process (PID=11680) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:51:45.932+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:51:45.932+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:45.932+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:51:46.091+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:51:46.094+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.166 seconds
+[2024-07-01T17:52:59.104+0530] {processor.py:161} INFO - Started process (PID=12069) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:52:59.104+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:52:59.105+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:59.105+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:52:59.266+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:52:59.270+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.171 seconds
+[2024-07-01T17:54:02.834+0530] {processor.py:161} INFO - Started process (PID=12471) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:54:02.835+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:54:02.835+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:02.835+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:54:02.993+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:54:02.997+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.165 seconds
+[2024-07-01T17:55:04.664+0530] {processor.py:161} INFO - Started process (PID=12570) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:55:04.665+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:55:04.666+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:04.665+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:55:04.826+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:55:04.829+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.171 seconds
+[2024-07-01T17:55:57.044+0530] {processor.py:161} INFO - Started process (PID=12651) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:55:57.044+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:55:57.045+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:57.045+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:55:57.237+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:55:57.241+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.200 seconds
+[2024-07-01T17:56:50.201+0530] {processor.py:161} INFO - Started process (PID=12724) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:56:50.202+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:56:50.203+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:50.203+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:56:50.363+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:56:50.367+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.173 seconds
+[2024-07-01T17:57:43.630+0530] {processor.py:161} INFO - Started process (PID=12798) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:57:43.630+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:57:43.631+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:43.631+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:57:43.788+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:57:43.791+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.164 seconds
+[2024-07-01T17:58:36.448+0530] {processor.py:161} INFO - Started process (PID=12899) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:58:36.448+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:58:36.450+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:36.449+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:58:36.613+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:58:36.617+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.175 seconds
+[2024-07-01T17:59:26.768+0530] {processor.py:161} INFO - Started process (PID=12969) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:59:26.768+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T17:59:26.769+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:26.769+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:59:26.926+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T17:59:26.929+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.168 seconds
+[2024-07-01T18:00:18.157+0530] {processor.py:161} INFO - Started process (PID=13046) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:00:18.158+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:00:18.159+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:18.159+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:00:18.318+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:00:18.321+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.170 seconds
+[2024-07-01T18:01:10.813+0530] {processor.py:161} INFO - Started process (PID=13121) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:01:10.814+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:01:10.815+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:10.814+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:01:10.973+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:01:10.976+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.167 seconds
+[2024-07-01T18:02:03.040+0530] {processor.py:161} INFO - Started process (PID=13194) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:02:03.041+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:02:03.043+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:03.042+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:02:03.224+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:02:03.228+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.192 seconds
+[2024-07-01T18:02:55.294+0530] {processor.py:161} INFO - Started process (PID=13267) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:02:55.295+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:02:55.296+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:55.296+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:02:55.500+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:02:55.503+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.215 seconds
+[2024-07-01T18:03:46.597+0530] {processor.py:161} INFO - Started process (PID=13366) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:03:46.598+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:03:46.599+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:46.599+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:03:46.757+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:03:46.760+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.168 seconds
+[2024-07-01T18:04:39.408+0530] {processor.py:161} INFO - Started process (PID=13811) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:04:39.409+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:04:39.409+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:39.409+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:04:39.588+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:04:39.592+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.186 seconds
+[2024-07-01T18:05:31.421+0530] {processor.py:161} INFO - Started process (PID=13944) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:05:31.422+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:05:31.423+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:31.422+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:05:31.632+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:05:31.636+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.219 seconds
+[2024-07-01T18:06:21.438+0530] {processor.py:161} INFO - Started process (PID=14032) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:06:21.438+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:06:21.439+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:21.439+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:06:21.604+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:06:21.608+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.174 seconds
+[2024-07-01T18:07:12.331+0530] {processor.py:161} INFO - Started process (PID=14104) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:07:12.332+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:07:12.333+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:12.332+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:07:12.491+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:07:12.495+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.170 seconds
+[2024-07-01T18:08:01.732+0530] {processor.py:161} INFO - Started process (PID=14175) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:08:01.733+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:08:01.735+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:01.734+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:08:01.894+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:08:01.898+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.172 seconds
+[2024-07-01T18:08:53.120+0530] {processor.py:161} INFO - Started process (PID=14280) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:08:53.120+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:08:53.122+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:53.121+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:08:53.285+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:08:53.288+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.174 seconds
+[2024-07-01T18:09:47.390+0530] {processor.py:161} INFO - Started process (PID=14442) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:09:47.391+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:09:47.391+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:47.391+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:09:47.547+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:09:47.551+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.163 seconds
+[2024-07-01T18:10:38.908+0530] {processor.py:161} INFO - Started process (PID=14531) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:10:38.908+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:10:38.910+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:38.909+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:10:39.071+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:10:39.075+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.172 seconds
+[2024-07-01T18:11:31.505+0530] {processor.py:161} INFO - Started process (PID=14660) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:11:31.506+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:11:31.509+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:31.508+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:11:31.677+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:11:31.680+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.179 seconds
+[2024-07-01T18:12:23.896+0530] {processor.py:161} INFO - Started process (PID=14854) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:12:23.897+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-01T18:12:23.899+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:23.898+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:12:24.062+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2024-07-01T18:12:24.065+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.177 seconds

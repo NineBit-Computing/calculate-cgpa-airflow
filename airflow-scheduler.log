@@ -1,0 +1,21 @@
+2024-05-02 11:49:15,247 INFO - Task context logging is enabled
+2024-05-02 11:49:15,248 INFO - Loaded executor: SequentialExecutor
+2024-05-02 11:49:15,266 INFO - Starting the scheduler
+2024-05-02 11:49:15,266 INFO - Processing each file at most -1 times
+2024-05-02 11:49:15,276 INFO - Launched DagFileProcessorManager with pid: 7702
+2024-05-02 11:49:15,276 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 11:49:15,277 INFO - Configured default timezone UTC
+2024-05-02 11:54:15,425 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 11:59:15,572 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:04:15,719 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:09:15,866 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:14:16,012 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:19:16,084 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:24:16,241 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:29:16,510 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:34:16,657 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:34:16,660 INFO - Marked 1 SchedulerJob instances as failed
+2024-05-02 12:39:16,822 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:44:16,975 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:49:17,123 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-02 12:51:34,405 INFO - Exiting gracefully upon receiving signal 15

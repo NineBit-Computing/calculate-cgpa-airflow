@@ -1,0 +1,1 @@
+[2024-05-03T15:54:35.314+0530] {scheduler_job_runner.py:769} ERROR - Executor reports task instance <TaskInstance: fetch_api_data.print_something_else manual__2024-05-03T10:24:29.965639+00:00 [queued]> finished (success) although the task says it's queued. (Info: None) Was the task killed externally?

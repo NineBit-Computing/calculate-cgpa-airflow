@@ -1,0 +1,9 @@
+[2024-05-02 11:49:15 +0530] [7700] [INFO] Starting gunicorn 21.2.0
+[2024-05-02 11:49:15 +0530] [7700] [INFO] Listening at: http://[::]:8793 (7700)
+[2024-05-02 11:49:15 +0530] [7700] [INFO] Using worker: sync
+[2024-05-02 11:49:15 +0530] [7701] [INFO] Booting worker with pid: 7701
+[2024-05-02 11:49:15 +0530] [7703] [INFO] Booting worker with pid: 7703
+[2024-05-02 12:51:34 +0530] [7701] [INFO] Worker exiting (pid: 7701)
+[2024-05-02 12:51:34 +0530] [7700] [INFO] Handling signal: term
+[2024-05-02 12:51:34 +0530] [7700] [ERROR] Worker (pid:7703) was sent SIGHUP!
+[2024-05-02 12:51:34 +0530] [7700] [INFO] Shutting down: Master

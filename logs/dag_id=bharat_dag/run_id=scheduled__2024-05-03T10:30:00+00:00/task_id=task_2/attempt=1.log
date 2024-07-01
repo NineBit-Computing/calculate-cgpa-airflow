@@ -1,0 +1,18 @@
+[2024-05-03T16:02:16.973+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-03T16:02:16.980+0530] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bharat_dag.task_2 scheduled__2024-05-03T10:30:00+00:00 [queued]>
+[2024-05-03T16:02:16.982+0530] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bharat_dag.task_2 scheduled__2024-05-03T10:30:00+00:00 [queued]>
+[2024-05-03T16:02:16.982+0530] {taskinstance.py:2303} INFO - Starting attempt 1 of 2
+[2024-05-03T16:02:16.989+0530] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): task_2> on 2024-05-03 10:30:00+00:00
+[2024-05-03T16:02:16.992+0530] {standard_task_runner.py:63} INFO - Started process 90618 to run task
+[2024-05-03T16:02:16.993+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'bharat_dag', 'task_2', 'scheduled__2024-05-03T10:30:00+00:00', '--job-id', '1017', '--raw', '--subdir', 'DAGS_FOLDER/bharat2_dag.py', '--cfg-path', '/tmp/tmp8xevapik']
+[2024-05-03T16:02:16.994+0530] {standard_task_runner.py:91} INFO - Job 1017: Subtask task_2
+[2024-05-03T16:02:17.012+0530] {task_command.py:426} INFO - Running <TaskInstance: bharat_dag.task_2 scheduled__2024-05-03T10:30:00+00:00 [running]> on host ninebit5lm
+[2024-05-03T16:02:17.045+0530] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='bharat_dag' AIRFLOW_CTX_TASK_ID='task_2' AIRFLOW_CTX_EXECUTION_DATE='2024-05-03T10:30:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-05-03T10:30:00+00:00'
+[2024-05-03T16:02:17.045+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2024-05-03T16:02:17.045+0530] {logging_mixin.py:188} INFO - the task2 number is 39
+[2024-05-03T16:02:17.046+0530] {python.py:237} INFO - Done. Returned value was: None
+[2024-05-03T16:02:17.046+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-05-03T16:02:17.047+0530] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=bharat_dag, task_id=task_2, execution_date=20240503T103000, start_date=20240503T103216, end_date=20240503T103217
+[2024-05-03T16:02:17.085+0530] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-05-03T16:02:17.096+0530] {taskinstance.py:3482} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-05-03T16:02:17.099+0530] {local_task_job_runner.py:222} INFO - ::endgroup::

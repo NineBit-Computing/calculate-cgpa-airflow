@@ -1,0 +1,500 @@
+[2024-07-01T17:48:04.169+0530] {processor.py:161} INFO - Started process (PID=10770) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:48:04.170+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:48:04.171+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:04.171+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:48:04.173+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:48:04.173+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:48:04.173+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:48:04.173+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:48:04.173+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:48:04.173+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:48:04.173+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:48:04.173+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 4.60
+[2024-07-01T17:48:04.173+0530] {logging_mixin.py:188} INFO - 4.6000000000000005
+[2024-07-01T17:48:04.177+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:48:04.224+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:04.224+0530] {override.py:1829} INFO - Created Permission View: can edit on DAG:calculate_cgpa
+[2024-07-01T17:48:04.230+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:04.230+0530] {override.py:1829} INFO - Created Permission View: can read on DAG:calculate_cgpa
+[2024-07-01T17:48:04.235+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:04.235+0530] {override.py:1829} INFO - Created Permission View: can delete on DAG:calculate_cgpa
+[2024-07-01T17:48:04.235+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:04.235+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:48:04.239+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:04.239+0530] {dag.py:3118} INFO - Creating ORM DAG for calculate_cgpa
+[2024-07-01T17:48:04.242+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:04.242+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:48:04.250+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.083 seconds
+[2024-07-01T17:49:12.532+0530] {processor.py:161} INFO - Started process (PID=11354) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:49:12.532+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:49:12.533+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:12.533+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:49:12.534+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:49:12.534+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:49:12.534+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:49:12.534+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:49:12.534+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:49:12.534+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:49:12.534+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:49:12.534+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 4.60
+[2024-07-01T17:49:12.535+0530] {logging_mixin.py:188} INFO - 4.6000000000000005
+[2024-07-01T17:49:12.536+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:49:12.543+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:12.543+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:49:12.595+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:12.595+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:49:12.604+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.077 seconds
+[2024-07-01T17:49:50.047+0530] {processor.py:161} INFO - Started process (PID=11414) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:49:50.048+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:49:50.048+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:50.048+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:49:50.049+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:49:50.049+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:49:50.049+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:49:50.049+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:49:50.049+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:49:50.049+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:49:50.050+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:49:50.050+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 4.60
+[2024-07-01T17:49:50.050+0530] {logging_mixin.py:188} INFO - 4.6000000000000005
+[2024-07-01T17:49:50.052+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:49:50.059+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:50.059+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:49:50.066+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:49:50.066+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:49:50.076+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.031 seconds
+[2024-07-01T17:50:40.968+0530] {processor.py:161} INFO - Started process (PID=11473) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:50:40.969+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:50:40.970+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:40.970+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:50:40.972+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:50:40.973+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:50:40.973+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:50:40.973+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:50:40.973+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:50:40.973+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:50:40.973+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:50:40.973+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 4.60
+[2024-07-01T17:50:40.973+0530] {logging_mixin.py:188} INFO - 4.6000000000000005
+[2024-07-01T17:50:40.977+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:50:40.985+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:40.985+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:50:40.992+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:40.992+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:50:41.001+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.038 seconds
+[2024-07-01T17:51:32.898+0530] {processor.py:161} INFO - Started process (PID=11667) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:51:32.899+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:51:32.900+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:32.900+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:51:32.904+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:51:32.904+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:51:32.904+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:51:32.904+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:51:32.905+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:51:32.905+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:51:32.905+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:51:32.905+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:51:32.905+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:51:32.908+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:51:32.915+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:32.915+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:51:32.923+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:51:32.923+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:51:32.934+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.041 seconds
+[2024-07-01T17:52:10.986+0530] {processor.py:161} INFO - Started process (PID=12015) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:52:10.986+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:52:10.987+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:10.987+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:52:10.990+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:52:10.990+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:52:10.990+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:52:10.990+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:52:10.990+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:52:10.991+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:52:10.991+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:52:10.991+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:52:10.991+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:52:10.998+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:52:11.009+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:11.009+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:52:11.017+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:11.017+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:52:11.026+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.044 seconds
+[2024-07-01T17:52:46.685+0530] {processor.py:161} INFO - Started process (PID=12054) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:52:46.686+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:52:46.687+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:46.686+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:52:46.687+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:52:46.687+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:52:46.687+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:52:46.688+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:52:46.688+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:52:46.688+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:52:46.688+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:52:46.688+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:52:46.688+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:52:46.693+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:52:46.706+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:46.706+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:52:46.714+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:46.714+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:52:46.723+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.042 seconds
+[2024-07-01T17:53:38.653+0530] {processor.py:161} INFO - Started process (PID=12157) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:53:38.654+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:53:38.654+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:38.654+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:53:38.655+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:53:38.655+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:53:38.655+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:53:38.655+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:53:38.655+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:53:38.655+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:53:38.655+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:53:38.655+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:53:38.655+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:53:38.657+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:53:38.668+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:38.668+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:53:38.678+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:38.678+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:53:38.687+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.038 seconds
+[2024-07-01T17:54:15.397+0530] {processor.py:161} INFO - Started process (PID=12505) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:54:15.398+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:54:15.399+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:15.399+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:54:15.401+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:54:15.401+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:54:15.401+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:54:15.401+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:54:15.401+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:54:15.401+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:54:15.401+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:54:15.401+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:54:15.401+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:54:15.404+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:54:15.411+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:15.411+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:54:15.418+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:15.418+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:54:15.427+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.038 seconds
+[2024-07-01T17:54:51.523+0530] {processor.py:161} INFO - Started process (PID=12555) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:54:51.524+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:54:51.527+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:51.527+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:54:51.531+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:54:51.531+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:54:51.531+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:54:51.531+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:54:51.532+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:54:51.532+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:54:51.532+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:54:51.532+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:54:51.532+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:54:51.537+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:54:51.546+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:51.546+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:54:51.554+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:51.554+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:54:51.563+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.046 seconds
+[2024-07-01T17:55:43.465+0530] {processor.py:161} INFO - Started process (PID=12637) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:55:43.465+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:55:43.466+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:43.466+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:55:43.705+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:55:43.706+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:55:43.706+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:55:43.706+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:55:43.706+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:55:43.706+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:55:43.706+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:55:43.707+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:55:43.707+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:55:43.711+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:55:43.719+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:43.719+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:55:43.726+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:43.726+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:55:43.735+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.276 seconds
+[2024-07-01T17:56:36.213+0530] {processor.py:161} INFO - Started process (PID=12709) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:56:36.213+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:56:36.215+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:36.214+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:56:36.380+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:56:36.380+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:56:36.380+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:56:36.380+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:56:36.380+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:56:36.380+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:56:36.380+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:56:36.380+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:56:36.380+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:56:36.382+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:56:36.388+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:36.388+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:56:36.395+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:36.395+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:56:36.404+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.196 seconds
+[2024-07-01T17:57:29.521+0530] {processor.py:161} INFO - Started process (PID=12784) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:57:29.522+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:57:29.523+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:29.522+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:57:29.692+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:57:29.692+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:57:29.692+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:57:29.692+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:57:29.692+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:57:29.692+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:57:29.692+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:57:29.692+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:57:29.692+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:57:29.694+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:57:29.700+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:29.700+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:57:29.707+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:29.707+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:57:29.716+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.200 seconds
+[2024-07-01T17:58:22.457+0530] {processor.py:161} INFO - Started process (PID=12885) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:58:22.459+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:58:22.460+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:22.460+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:58:22.629+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:58:22.629+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:58:22.629+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:58:22.629+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:58:22.629+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:58:22.629+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:58:22.630+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:58:22.630+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:58:22.630+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:58:22.631+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:58:22.637+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:22.637+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:58:22.644+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:22.644+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:58:22.653+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.202 seconds
+[2024-07-01T17:59:13.003+0530] {processor.py:161} INFO - Started process (PID=12955) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:59:13.004+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T17:59:13.005+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:13.004+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:59:13.174+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T17:59:13.174+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T17:59:13.174+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T17:59:13.174+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T17:59:13.174+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T17:59:13.174+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T17:59:13.174+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T17:59:13.174+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T17:59:13.174+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T17:59:13.176+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T17:59:13.182+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:13.182+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T17:59:13.189+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:13.189+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T17:59:13.198+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.200 seconds
+[2024-07-01T18:00:04.954+0530] {processor.py:161} INFO - Started process (PID=13031) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:00:04.954+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:00:04.955+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:04.955+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:00:05.119+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:00:05.119+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:00:05.119+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:00:05.119+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:00:05.119+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:00:05.119+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:00:05.119+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:00:05.120+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:00:05.120+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:00:05.121+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:00:05.128+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:05.128+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:00:05.134+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:05.134+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:00:05.143+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.195 seconds
+[2024-07-01T18:00:57.024+0530] {processor.py:161} INFO - Started process (PID=13107) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:00:57.025+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:00:57.026+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:57.026+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:00:57.193+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:00:57.193+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:00:57.193+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:00:57.193+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:00:57.193+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:00:57.193+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:00:57.193+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:00:57.193+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:00:57.193+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:00:57.195+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:00:57.201+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:57.201+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:00:57.208+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:57.208+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:00:57.217+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.199 seconds
+[2024-07-01T18:01:48.503+0530] {processor.py:161} INFO - Started process (PID=13180) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:01:48.503+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:01:48.505+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:48.504+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:01:48.682+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:01:48.682+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:01:48.682+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:01:48.682+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:01:48.682+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:01:48.682+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:01:48.682+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:01:48.682+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:01:48.682+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:01:48.684+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:01:48.690+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:48.690+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:01:48.697+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:48.697+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:01:48.706+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.208 seconds
+[2024-07-01T18:02:42.314+0530] {processor.py:161} INFO - Started process (PID=13253) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:02:42.315+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:02:42.318+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:42.317+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:02:42.488+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:02:42.489+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:02:42.489+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:02:42.489+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:02:42.489+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:02:42.489+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:02:42.489+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:02:42.489+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:02:42.489+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:02:42.490+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:02:42.497+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:42.497+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:02:42.504+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:42.503+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:02:42.513+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.204 seconds
+[2024-07-01T18:03:32.623+0530] {processor.py:161} INFO - Started process (PID=13352) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:03:32.623+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:03:32.625+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:32.625+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:03:32.798+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:03:32.798+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:03:32.798+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:03:32.798+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:03:32.798+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:03:32.798+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:03:32.798+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:03:32.798+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:03:32.798+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:03:32.800+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:03:32.806+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:32.806+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:03:32.813+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:32.813+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:03:32.823+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.203 seconds
+[2024-07-01T18:04:23.774+0530] {processor.py:161} INFO - Started process (PID=13429) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:04:23.775+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:04:23.775+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:23.775+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:04:23.952+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:04:23.952+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:04:23.952+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:04:23.952+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:04:23.953+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:04:23.953+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:04:23.953+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:04:23.953+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:04:23.953+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:04:23.954+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:04:23.960+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:23.960+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:04:23.967+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:23.967+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:04:23.977+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.206 seconds
+[2024-07-01T18:05:17.429+0530] {processor.py:161} INFO - Started process (PID=13928) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:05:17.430+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:05:17.431+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:17.431+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:05:17.597+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:05:17.597+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:05:17.597+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:05:17.597+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:05:17.597+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:05:17.598+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:05:17.598+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:05:17.598+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:05:17.598+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:05:17.599+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:05:17.605+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:17.605+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:05:17.612+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:17.612+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:05:17.621+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.199 seconds
+[2024-07-01T18:06:05.791+0530] {processor.py:161} INFO - Started process (PID=14013) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:06:05.792+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:06:05.792+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:05.792+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:06:05.962+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:06:05.962+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:06:05.962+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:06:05.962+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:06:05.962+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:06:05.962+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:06:05.962+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:06:05.962+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:06:05.962+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:06:05.964+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:06:05.971+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:05.971+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:06:05.977+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:05.977+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:06:05.987+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.200 seconds
+[2024-07-01T18:06:31.176+0530] {processor.py:161} INFO - Started process (PID=14061) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:06:31.176+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:06:31.177+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:31.177+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:06:31.343+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:06:31.343+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:06:31.343+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:06:31.343+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:06:31.343+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:06:31.343+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:06:31.343+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:06:31.343+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:06:31.343+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:06:31.345+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:06:31.351+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:31.351+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:06:31.358+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:31.357+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:06:31.367+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.196 seconds
+[2024-07-01T18:07:23.224+0530] {processor.py:161} INFO - Started process (PID=14135) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:07:23.225+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:07:23.227+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:23.226+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:07:23.393+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:07:23.393+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:07:23.393+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:07:23.393+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:07:23.393+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:07:23.393+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:07:23.393+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:07:23.393+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:07:23.393+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:07:23.395+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:07:23.401+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:23.401+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:07:23.408+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:23.408+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:07:23.417+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.200 seconds
+[2024-07-01T18:08:13.166+0530] {processor.py:161} INFO - Started process (PID=14235) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:08:13.167+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:08:13.169+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:13.168+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:08:13.342+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:08:13.342+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:08:13.342+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:08:13.342+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:08:13.342+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:08:13.342+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:08:13.342+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:08:13.342+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:08:13.342+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:08:13.344+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:08:13.350+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:13.350+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:08:13.357+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:13.357+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:08:13.366+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.204 seconds
+[2024-07-01T18:09:05.678+0530] {processor.py:161} INFO - Started process (PID=14366) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:09:05.679+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:09:05.681+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:05.680+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:09:05.852+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:09:05.852+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:09:05.852+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:09:05.852+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:09:05.852+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:09:05.852+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:09:05.852+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:09:05.852+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:09:05.853+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:09:05.854+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:09:05.860+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:05.860+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:09:05.867+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:05.867+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:09:05.877+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.204 seconds
+[2024-07-01T18:09:58.265+0530] {processor.py:161} INFO - Started process (PID=14476) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:09:58.266+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:09:58.267+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:58.266+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:09:58.435+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:09:58.435+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:09:58.435+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:09:58.435+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:09:58.436+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:09:58.436+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:09:58.436+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:09:58.436+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:09:58.436+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:09:58.437+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:09:58.443+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:58.443+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:09:58.450+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:58.450+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:09:58.459+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.199 seconds
+[2024-07-01T18:10:49.567+0530] {processor.py:161} INFO - Started process (PID=14568) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:10:49.567+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:10:49.568+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:49.568+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:10:49.743+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:10:49.743+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:10:49.743+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:10:49.743+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:10:49.743+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:10:49.743+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:10:49.743+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:10:49.743+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:10:49.743+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:10:49.745+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:10:49.752+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:49.752+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:10:49.758+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:49.758+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:10:49.767+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.205 seconds
+[2024-07-01T18:11:42.936+0530] {processor.py:161} INFO - Started process (PID=14701) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:11:42.936+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:11:42.937+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:42.937+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:11:43.109+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:11:43.109+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:11:43.109+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:11:43.109+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:11:43.109+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:11:43.109+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:11:43.109+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:11:43.109+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:11:43.109+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:11:43.111+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:11:43.117+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:43.117+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:11:43.124+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:43.124+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:11:43.134+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.203 seconds
+[2024-07-01T18:12:34.195+0530] {processor.py:161} INFO - Started process (PID=14959) to work on /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:12:34.195+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/calculateCGPA_dag.py for tasks to queue
+[2024-07-01T18:12:34.196+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:34.196+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:12:34.372+0530] {logging_mixin.py:188} INFO - GPA for Semester 1: 4.60
+[2024-07-01T18:12:34.372+0530] {logging_mixin.py:188} INFO - GPA for Semester 2: 4.60
+[2024-07-01T18:12:34.372+0530] {logging_mixin.py:188} INFO - GPA for Semester 3: 4.60
+[2024-07-01T18:12:34.372+0530] {logging_mixin.py:188} INFO - GPA for Semester 4: 4.60
+[2024-07-01T18:12:34.372+0530] {logging_mixin.py:188} INFO - GPA for Semester 5: 4.60
+[2024-07-01T18:12:34.372+0530] {logging_mixin.py:188} INFO - GPA for Semester 6: 4.60
+[2024-07-01T18:12:34.372+0530] {logging_mixin.py:188} INFO - GPA for Semester 7: 4.60
+[2024-07-01T18:12:34.372+0530] {logging_mixin.py:188} INFO - GPA for Semester 8: 6.60
+[2024-07-01T18:12:34.373+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-01T18:12:34.374+0530] {processor.py:840} INFO - DAG(s) 'calculate_cgpa' retrieved from /home/bharat/airflow/dags/calculateCGPA_dag.py
+[2024-07-01T18:12:34.380+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:34.380+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T18:12:34.387+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:34.387+0530] {dag.py:3954} INFO - Setting next_dagrun for calculate_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T18:12:34.396+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/calculateCGPA_dag.py took 0.205 seconds

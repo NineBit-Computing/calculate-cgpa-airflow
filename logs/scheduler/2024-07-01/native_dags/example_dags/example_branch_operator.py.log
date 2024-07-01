@@ -1,0 +1,130 @@
+[2024-07-01T17:48:44.807+0530] {processor.py:161} INFO - Started process (PID=11034) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:48:44.807+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:48:44.808+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:48:44.808+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:48:44.809+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:48:44.814+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.010 seconds
+[2024-07-01T17:50:00.357+0530] {processor.py:161} INFO - Started process (PID=11426) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:50:00.358+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:50:00.359+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:00.359+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:50:00.361+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:50:00.365+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.014 seconds
+[2024-07-01T17:50:56.344+0530] {processor.py:161} INFO - Started process (PID=11507) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:50:56.344+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:50:56.345+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:50:56.345+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:50:56.346+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:50:56.350+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.009 seconds
+[2024-07-01T17:52:04.130+0530] {processor.py:161} INFO - Started process (PID=11980) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:52:04.130+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:52:04.132+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:52:04.131+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:52:04.134+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:52:04.141+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.016 seconds
+[2024-07-01T17:53:04.168+0530] {processor.py:161} INFO - Started process (PID=12094) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:53:04.168+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:53:04.169+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:53:04.169+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:53:04.170+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:53:04.174+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.009 seconds
+[2024-07-01T17:54:06.838+0530] {processor.py:161} INFO - Started process (PID=12496) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:54:06.839+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:54:06.841+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:54:06.840+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:54:06.842+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:54:06.847+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.015 seconds
+[2024-07-01T17:55:10.887+0530] {processor.py:161} INFO - Started process (PID=12595) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:55:10.888+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:55:10.889+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:55:10.889+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:55:10.890+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:55:10.894+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.012 seconds
+[2024-07-01T17:56:03.752+0530] {processor.py:161} INFO - Started process (PID=12676) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:56:03.753+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:56:03.754+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:03.754+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:56:03.756+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:56:03.760+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.014 seconds
+[2024-07-01T17:56:56.584+0530] {processor.py:161} INFO - Started process (PID=12749) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:56:56.585+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:56:56.586+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:56:56.586+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:56:56.588+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:56:56.593+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.017 seconds
+[2024-07-01T17:57:49.813+0530] {processor.py:161} INFO - Started process (PID=12823) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:57:49.813+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:57:49.814+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:57:49.814+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:57:49.815+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:57:49.819+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.012 seconds
+[2024-07-01T17:58:42.599+0530] {processor.py:161} INFO - Started process (PID=12924) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:58:42.599+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:58:42.600+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:58:42.600+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:58:42.601+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:58:42.604+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.011 seconds
+[2024-07-01T17:59:32.140+0530] {processor.py:161} INFO - Started process (PID=12994) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:59:32.140+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T17:59:32.142+0530] {logging_mixin.py:188} INFO - [2024-07-01T17:59:32.141+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:59:32.144+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T17:59:32.151+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.017 seconds
+[2024-07-01T18:00:24.431+0530] {processor.py:161} INFO - Started process (PID=13072) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:00:24.431+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:00:24.432+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:00:24.432+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:00:24.433+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:00:24.437+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.011 seconds
+[2024-07-01T18:01:16.587+0530] {processor.py:161} INFO - Started process (PID=13146) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:01:16.587+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:01:16.588+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:01:16.588+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:01:16.589+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:01:16.595+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.013 seconds
+[2024-07-01T18:02:09.292+0530] {processor.py:161} INFO - Started process (PID=13219) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:02:09.294+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:02:09.295+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:02:09.295+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:02:09.297+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:02:09.302+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.017 seconds
+[2024-07-01T18:03:01.785+0530] {processor.py:161} INFO - Started process (PID=13292) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:03:01.786+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:03:01.787+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:01.787+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:03:01.789+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:03:01.793+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.015 seconds
+[2024-07-01T18:03:52.021+0530] {processor.py:161} INFO - Started process (PID=13391) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:03:52.022+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:03:52.022+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:03:52.022+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:03:52.023+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:03:52.027+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.012 seconds
+[2024-07-01T18:04:45.404+0530] {processor.py:161} INFO - Started process (PID=13874) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:04:45.405+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:04:45.406+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:04:45.405+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:04:45.407+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:04:45.410+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.012 seconds
+[2024-07-01T18:05:38.306+0530] {processor.py:161} INFO - Started process (PID=13974) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:05:38.306+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:05:38.307+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:05:38.307+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:05:38.308+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:05:38.312+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.012 seconds
+[2024-07-01T18:06:52.352+0530] {processor.py:161} INFO - Started process (PID=14084) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:06:52.352+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:06:52.353+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:06:52.353+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:06:52.354+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:06:52.358+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.012 seconds
+[2024-07-01T18:07:46.294+0530] {processor.py:161} INFO - Started process (PID=14158) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:07:46.294+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:07:46.295+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:07:46.295+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:07:46.299+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:07:46.307+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.018 seconds
+[2024-07-01T18:08:58.559+0530] {processor.py:161} INFO - Started process (PID=14308) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:08:58.560+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:08:58.562+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:08:58.562+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:08:58.565+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:08:58.570+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.020 seconds
+[2024-07-01T18:09:52.643+0530] {processor.py:161} INFO - Started process (PID=14470) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:09:52.644+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:09:52.645+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:09:52.645+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:09:52.646+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:09:52.653+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.014 seconds
+[2024-07-01T18:10:45.298+0530] {processor.py:161} INFO - Started process (PID=14560) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:10:45.299+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:10:45.299+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:10:45.299+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:10:45.300+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:10:45.304+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.012 seconds
+[2024-07-01T18:11:37.785+0530] {processor.py:161} INFO - Started process (PID=14692) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:11:37.786+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:11:37.787+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:11:37.786+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:11:37.788+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:11:37.791+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.010 seconds
+[2024-07-01T18:12:30.190+0530] {processor.py:161} INFO - Started process (PID=14917) to work on /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:12:30.191+0530] {processor.py:830} INFO - Processing file /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-07-01T18:12:30.192+0530] {logging_mixin.py:188} INFO - [2024-07-01T18:12:30.192+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:12:30.193+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-07-01T18:12:30.198+0530] {processor.py:183} INFO - Processing /home/bharat/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.014 seconds
