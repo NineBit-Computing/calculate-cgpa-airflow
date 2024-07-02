@@ -1,0 +1,18 @@
+[2024-07-02T14:43:58.360+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-02T14:43:58.366+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bharat_cgpa.execute_post_request_task manual__2024-07-02T09:13:56.120083+00:00 [queued]>
+[2024-07-02T14:43:58.369+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bharat_cgpa.execute_post_request_task manual__2024-07-02T09:13:56.120083+00:00 [queued]>
+[2024-07-02T14:43:58.369+0530] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-07-02T14:43:58.376+0530] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): execute_post_request_task> on 2024-07-02 09:13:56.120083+00:00
+[2024-07-02T14:43:58.378+0530] {standard_task_runner.py:63} INFO - Started process 30968 to run task
+[2024-07-02T14:43:58.379+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'bharat_cgpa', 'execute_post_request_task', 'manual__2024-07-02T09:13:56.120083+00:00', '--job-id', '1323', '--raw', '--subdir', 'DAGS_FOLDER/cgpa1.py', '--cfg-path', '/tmp/tmpap8o3phv']
+[2024-07-02T14:43:58.380+0530] {standard_task_runner.py:91} INFO - Job 1323: Subtask execute_post_request_task
+[2024-07-02T14:43:58.394+0530] {task_command.py:426} INFO - Running <TaskInstance: bharat_cgpa.execute_post_request_task manual__2024-07-02T09:13:56.120083+00:00 [running]> on host ninebit5lm
+[2024-07-02T14:43:58.419+0530] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='bharat_cgpa' AIRFLOW_CTX_TASK_ID='execute_post_request_task' AIRFLOW_CTX_EXECUTION_DATE='2024-07-02T09:13:56.120083+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-07-02T09:13:56.120083+00:00'
+[2024-07-02T14:43:58.420+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2024-07-02T14:43:59.445+0530] {logging_mixin.py:188} INFO - Failed to fetch data from API. Status code: 404
+[2024-07-02T14:43:59.447+0530] {python.py:237} INFO - Done. Returned value was: None
+[2024-07-02T14:43:59.449+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-07-02T14:43:59.459+0530] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=bharat_cgpa, task_id=execute_post_request_task, run_id=manual__2024-07-02T09:13:56.120083+00:00, execution_date=20240702T091356, start_date=20240702T091358, end_date=20240702T091359
+[2024-07-02T14:43:59.474+0530] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-07-02T14:43:59.484+0530] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-07-02T14:43:59.485+0530] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,1 @@
+[2024-07-02T15:20:22.528+0530] {scheduler_job_runner.py:769} ERROR - Executor reports task instance <TaskInstance: bharat_cgpa.calculate_cgpa_task manual__2024-07-02T09:50:19.996770+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?

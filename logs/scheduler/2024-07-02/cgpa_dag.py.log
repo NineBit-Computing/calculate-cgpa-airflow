@@ -1,0 +1,375 @@
+[2024-07-02T11:21:10.629+0530] {processor.py:161} INFO - Started process (PID=19103) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:21:10.629+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:21:10.630+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:21:10.630+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:21:10.854+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:21:10.854+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = list[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:21:10.854+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:21:10.862+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.235 seconds
+[2024-07-02T11:22:06.474+0530] {processor.py:161} INFO - Started process (PID=19328) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:22:06.475+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:22:06.476+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:22:06.475+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:22:06.694+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:22:06.694+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = list[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:22:06.694+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:22:06.702+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.232 seconds
+[2024-07-02T11:22:58.405+0530] {processor.py:161} INFO - Started process (PID=19447) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:22:58.405+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:22:58.406+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:22:58.406+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:22:58.583+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:22:58.583+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = list[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:22:58.583+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:22:58.592+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.190 seconds
+[2024-07-02T11:23:52.262+0530] {processor.py:161} INFO - Started process (PID=19639) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:23:52.262+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:23:52.263+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:23:52.263+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:23:52.436+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:23:52.473+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:23:52.473+0530] {override.py:1829} INFO - Created Permission View: can edit on DAG:final_cgpa
+[2024-07-02T11:23:52.478+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:23:52.478+0530] {override.py:1829} INFO - Created Permission View: can read on DAG:final_cgpa
+[2024-07-02T11:23:52.483+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:23:52.483+0530] {override.py:1829} INFO - Created Permission View: can delete on DAG:final_cgpa
+[2024-07-02T11:23:52.483+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:23:52.483+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:23:52.488+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:23:52.488+0530] {dag.py:3118} INFO - Creating ORM DAG for final_cgpa
+[2024-07-02T11:23:52.491+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:23:52.491+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:23:52.503+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.244 seconds
+[2024-07-02T11:24:44.663+0530] {processor.py:161} INFO - Started process (PID=19899) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:24:44.663+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:24:44.664+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:24:44.664+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:24:44.837+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:24:44.842+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:24:44.842+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:24:44.849+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:24:44.849+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:24:44.859+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.200 seconds
+[2024-07-02T11:25:36.511+0530] {processor.py:161} INFO - Started process (PID=20023) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:25:36.511+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:25:36.512+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:25:36.512+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:25:36.684+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:25:36.689+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:25:36.689+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:25:36.696+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:25:36.696+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:25:36.706+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.200 seconds
+[2024-07-02T11:26:27.103+0530] {processor.py:161} INFO - Started process (PID=20160) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:26:27.104+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:26:27.105+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:26:27.105+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:26:27.275+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:26:27.281+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:26:27.280+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:26:27.287+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:26:27.287+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:26:27.297+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.200 seconds
+[2024-07-02T11:27:17.737+0530] {processor.py:161} INFO - Started process (PID=20330) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:27:17.738+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:27:17.740+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:27:17.740+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:27:17.912+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:27:17.917+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:27:17.917+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:27:17.924+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:27:17.924+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:27:17.933+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.202 seconds
+[2024-07-02T11:28:06.976+0530] {processor.py:161} INFO - Started process (PID=20497) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:28:06.977+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:28:06.978+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:28:06.978+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:28:07.150+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:28:07.155+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:28:07.155+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:28:07.162+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:28:07.162+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:28:07.171+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.200 seconds
+[2024-07-02T11:29:00.935+0530] {processor.py:161} INFO - Started process (PID=20677) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:29:00.936+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:29:00.936+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:29:00.936+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:29:01.103+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:29:01.108+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:29:01.108+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:29:01.115+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:29:01.115+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:29:01.124+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.195 seconds
+[2024-07-02T11:29:55.332+0530] {processor.py:161} INFO - Started process (PID=20853) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:29:55.332+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:29:55.334+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:29:55.333+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:29:55.507+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:29:55.512+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:29:55.512+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:29:55.519+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:29:55.519+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:29:55.528+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.201 seconds
+[2024-07-02T11:30:46.972+0530] {processor.py:161} INFO - Started process (PID=21030) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:30:46.972+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:30:46.974+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:30:46.973+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:30:47.148+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:30:47.153+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:30:47.152+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:30:47.160+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:30:47.160+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:30:47.170+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.203 seconds
+[2024-07-02T11:31:40.142+0530] {processor.py:161} INFO - Started process (PID=21232) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:31:40.143+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:31:40.144+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:31:40.143+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:31:40.325+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:31:40.330+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:31:40.330+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:31:40.338+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:31:40.338+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:31:40.348+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.209 seconds
+[2024-07-02T11:32:31.819+0530] {processor.py:161} INFO - Started process (PID=21430) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:32:31.821+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:32:31.823+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:32:31.823+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:32:31.997+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:32:32.002+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:32:32.001+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:32:32.009+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:32:32.009+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:32:32.019+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.209 seconds
+[2024-07-02T11:33:22.716+0530] {processor.py:161} INFO - Started process (PID=21603) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:33:22.716+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:33:22.717+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:33:22.717+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:33:22.888+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:33:22.893+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:33:22.893+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:33:22.899+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:33:22.899+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:33:22.909+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.198 seconds
+[2024-07-02T11:34:16.306+0530] {processor.py:161} INFO - Started process (PID=21730) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:34:16.306+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:34:16.307+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:34:16.307+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:34:16.484+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:34:16.489+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:34:16.489+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:34:16.496+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:34:16.495+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:34:16.505+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.205 seconds
+[2024-07-02T11:35:05.265+0530] {processor.py:161} INFO - Started process (PID=21840) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:35:05.265+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:35:05.266+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:35:05.266+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:35:05.491+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:35:05.491+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = list[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:35:05.491+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:35:05.498+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.236 seconds
+[2024-07-02T11:36:01.126+0530] {processor.py:161} INFO - Started process (PID=22352) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:36:01.126+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:36:01.127+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:36:01.127+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:36:01.354+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:36:01.354+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = list[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:36:01.355+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:36:01.363+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.242 seconds
+[2024-07-02T11:36:55.339+0530] {processor.py:161} INFO - Started process (PID=22642) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:36:55.339+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:36:55.340+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:36:55.339+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:36:55.513+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:36:55.546+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:36:55.546+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:36:55.552+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:36:55.552+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:36:55.568+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.232 seconds
+[2024-07-02T11:37:49.778+0530] {processor.py:161} INFO - Started process (PID=22817) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:37:49.779+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:37:49.779+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:37:49.779+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:37:49.960+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:37:49.965+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:37:49.965+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:37:49.972+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:37:49.972+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:37:49.982+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.206 seconds
+[2024-07-02T11:38:44.970+0530] {processor.py:161} INFO - Started process (PID=23109) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:38:44.970+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:38:44.971+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:38:44.971+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:38:45.153+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:38:45.158+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:38:45.158+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:38:45.165+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:38:45.165+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:38:45.176+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.211 seconds
+[2024-07-02T11:39:38.045+0530] {processor.py:161} INFO - Started process (PID=23422) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:39:38.046+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:39:38.046+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:39:38.046+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:39:38.224+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:39:38.230+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:39:38.230+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:39:38.237+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:39:38.237+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:39:38.247+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.205 seconds
+[2024-07-02T11:40:29.735+0530] {processor.py:161} INFO - Started process (PID=23733) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:40:29.736+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:40:29.736+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:40:29.736+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:40:29.912+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:40:29.917+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:40:29.917+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:40:29.924+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:40:29.924+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:40:29.933+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.201 seconds
+[2024-07-02T11:41:20.239+0530] {processor.py:161} INFO - Started process (PID=23863) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:41:20.240+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:41:20.240+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:41:20.240+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:41:20.414+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:41:20.419+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:41:20.419+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:41:20.426+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:41:20.426+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:41:20.435+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.201 seconds
+[2024-07-02T11:42:12.318+0530] {processor.py:161} INFO - Started process (PID=24058) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:42:12.319+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:42:12.319+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:42:12.319+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:42:12.496+0530] {processor.py:840} INFO - DAG(s) 'final_cgpa' retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:42:12.501+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:42:12.501+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-02T11:42:12.508+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:42:12.508+0530] {dag.py:3954} INFO - Setting next_dagrun for final_cgpa to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-02T11:42:12.517+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.202 seconds
+[2024-07-02T11:42:39.377+0530] {processor.py:161} INFO - Started process (PID=24154) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:42:39.377+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:42:39.378+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:42:39.377+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:42:39.552+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:42:39.552+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = list[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:42:39.552+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:42:39.560+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.189 seconds
+[2024-07-02T11:43:07.341+0530] {processor.py:161} INFO - Started process (PID=24245) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:43:07.342+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:43:07.343+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:43:07.343+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:43:07.524+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:43:07.523+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = list[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:43:07.524+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:43:07.532+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.198 seconds
+[2024-07-02T11:43:34.908+0530] {processor.py:161} INFO - Started process (PID=24336) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:43:34.909+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:43:34.909+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:43:34.909+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:43:35.083+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:43:35.083+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = list[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:43:35.084+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:43:35.091+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.186 seconds
+[2024-07-02T11:44:00.732+0530] {processor.py:161} INFO - Started process (PID=24456) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:44:00.733+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:44:00.733+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:44:00.733+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:44:00.916+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:44:00.915+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = typing.List[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:44:00.916+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:44:00.924+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.196 seconds
+[2024-07-02T11:44:55.796+0530] {processor.py:161} INFO - Started process (PID=24831) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:44:55.797+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:44:55.798+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:44:55.798+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:44:55.969+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:44:55.968+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = typing.List[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:44:55.969+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:44:55.977+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.184 seconds
+[2024-07-02T11:45:49.879+0530] {processor.py:161} INFO - Started process (PID=25241) to work on /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:45:49.880+0530] {processor.py:830} INFO - Processing file /home/bharat/airflow/dags/cgpa_dag.py for tasks to queue
+[2024-07-02T11:45:49.880+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:45:49.880+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:45:50.047+0530] {logging_mixin.py:188} INFO - [2024-07-02T11:45:50.047+0530] {dagbag.py:355} ERROR - Failed to import: /home/bharat/airflow/dags/cgpa_dag.py
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/bharat/airflow/dags/cgpa_dag.py", line 25, in <module>
+    class Marks(BaseModel):
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 93, in __new__
+    private_attributes = inspect_namespace(
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/pydantic/_internal/_model_construction.py", line 406, in inspect_namespace
+    raise PydanticUserError(
+pydantic.errors.PydanticUserError: A non-annotated attribute was detected: `sem1_marks = typing.List[int]`. All model fields require a type annotation; if `sem1_marks` is not meant to be a field, you may be able to resolve this error by annotating it as a `ClassVar` or updating `model_config['ignored_types']`.
+
+For further information visit https://errors.pydantic.dev/2.7/u/model-field-missing-annotation
+[2024-07-02T11:45:50.047+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/bharat/airflow/dags/cgpa_dag.py
+[2024-07-02T11:45:50.055+0530] {processor.py:183} INFO - Processing /home/bharat/airflow/dags/cgpa_dag.py took 0.182 seconds

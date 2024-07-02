@@ -1,0 +1,38 @@
+[2024-07-02T15:17:28.457+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-02T15:17:28.463+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bharat_cgpa.calculate_cgpa_task manual__2024-07-02T09:47:26.152686+00:00 [queued]>
+[2024-07-02T15:17:28.465+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bharat_cgpa.calculate_cgpa_task manual__2024-07-02T09:47:26.152686+00:00 [queued]>
+[2024-07-02T15:17:28.465+0530] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-07-02T15:17:28.472+0530] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): calculate_cgpa_task> on 2024-07-02 09:47:26.152686+00:00
+[2024-07-02T15:17:28.474+0530] {standard_task_runner.py:63} INFO - Started process 37604 to run task
+[2024-07-02T15:17:28.475+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'bharat_cgpa', 'calculate_cgpa_task', 'manual__2024-07-02T09:47:26.152686+00:00', '--job-id', '1329', '--raw', '--subdir', 'DAGS_FOLDER/cgpa1.py', '--cfg-path', '/tmp/tmpxls64ob0']
+[2024-07-02T15:17:28.476+0530] {standard_task_runner.py:91} INFO - Job 1329: Subtask calculate_cgpa_task
+[2024-07-02T15:17:28.490+0530] {task_command.py:426} INFO - Running <TaskInstance: bharat_cgpa.calculate_cgpa_task manual__2024-07-02T09:47:26.152686+00:00 [running]> on host ninebit5lm
+[2024-07-02T15:17:28.517+0530] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='bharat_cgpa' AIRFLOW_CTX_TASK_ID='calculate_cgpa_task' AIRFLOW_CTX_EXECUTION_DATE='2024-07-02T09:47:26.152686+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-07-02T09:47:26.152686+00:00'
+[2024-07-02T15:17:28.518+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2024-07-02T15:17:28.518+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-07-02T15:17:28.518+0530] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/airflow/dags/cgpa1.py", line 51, in calculate_cgpa
+    for sem, sem_marks in marks.items():
+                          ^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'items'
+[2024-07-02T15:17:28.520+0530] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=bharat_cgpa, task_id=calculate_cgpa_task, run_id=manual__2024-07-02T09:47:26.152686+00:00, execution_date=20240702T094726, start_date=20240702T094728, end_date=20240702T094728
+[2024-07-02T15:17:28.525+0530] {standard_task_runner.py:110} ERROR - Failed to execute job 1329 for task calculate_cgpa_task ('NoneType' object has no attribute 'items'; 37604)
+[2024-07-02T15:17:28.567+0530] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2024-07-02T15:17:28.575+0530] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-07-02T15:17:28.575+0530] {local_task_job_runner.py:222} INFO - ::endgroup::

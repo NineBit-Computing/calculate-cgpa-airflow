@@ -1,0 +1,35 @@
+[2024-07-02T12:56:04.643+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-02T12:56:04.649+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bharat_cgpa.sem_4_cgpa manual__2024-07-02T07:24:55.060149+00:00 [queued]>
+[2024-07-02T12:56:04.652+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bharat_cgpa.sem_4_cgpa manual__2024-07-02T07:24:55.060149+00:00 [queued]>
+[2024-07-02T12:56:04.652+0530] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2024-07-02T12:56:04.659+0530] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): sem_4_cgpa> on 2024-07-02 07:24:55.060149+00:00
+[2024-07-02T12:56:04.661+0530] {standard_task_runner.py:63} INFO - Started process 14031 to run task
+[2024-07-02T12:56:04.663+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'bharat_cgpa', 'sem_4_cgpa', 'manual__2024-07-02T07:24:55.060149+00:00', '--job-id', '1262', '--raw', '--subdir', 'DAGS_FOLDER/cgpa1.py', '--cfg-path', '/tmp/tmppo9oorb_']
+[2024-07-02T12:56:04.663+0530] {standard_task_runner.py:91} INFO - Job 1262: Subtask sem_4_cgpa
+[2024-07-02T12:56:04.682+0530] {task_command.py:426} INFO - Running <TaskInstance: bharat_cgpa.sem_4_cgpa manual__2024-07-02T07:24:55.060149+00:00 [running]> on host ninebit5lm
+[2024-07-02T12:56:04.707+0530] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='bharat_cgpa' AIRFLOW_CTX_TASK_ID='sem_4_cgpa' AIRFLOW_CTX_EXECUTION_DATE='2024-07-02T07:24:55.060149+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-07-02T07:24:55.060149+00:00'
+[2024-07-02T12:56:04.708+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2024-07-02T12:56:04.708+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-07-02T12:56:04.708+0530] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bharat/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: sem1_GPA() missing 1 required positional argument: 'sem1_marks'
+[2024-07-02T12:56:04.710+0530] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=bharat_cgpa, task_id=sem_4_cgpa, run_id=manual__2024-07-02T07:24:55.060149+00:00, execution_date=20240702T072455, start_date=20240702T072604, end_date=20240702T072604
+[2024-07-02T12:56:04.716+0530] {standard_task_runner.py:110} ERROR - Failed to execute job 1262 for task sem_4_cgpa (sem1_GPA() missing 1 required positional argument: 'sem1_marks'; 14031)
+[2024-07-02T12:56:04.755+0530] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2024-07-02T12:56:04.766+0530] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-07-02T12:56:04.766+0530] {local_task_job_runner.py:222} INFO - ::endgroup::

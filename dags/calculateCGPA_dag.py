@@ -1,7 +1,6 @@
 from airflow import DAG
 from airflow.operators.python import PythonOperator, BranchPythonOperator
 from airflow.operators.bash import BashOperator
-from fastapi import FastAPI
 from datetime import datetime , timedelta
 
 

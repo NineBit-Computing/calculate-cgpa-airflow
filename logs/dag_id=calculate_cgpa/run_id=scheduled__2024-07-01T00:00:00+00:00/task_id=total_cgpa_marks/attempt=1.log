@@ -1,0 +1,18 @@
+[2024-07-02T11:49:38.981+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-02T11:49:39.034+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: calculate_cgpa.total_cgpa_marks scheduled__2024-07-01T00:00:00+00:00 [queued]>
+[2024-07-02T11:49:39.036+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: calculate_cgpa.total_cgpa_marks scheduled__2024-07-01T00:00:00+00:00 [queued]>
+[2024-07-02T11:49:39.036+0530] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-07-02T11:49:39.043+0530] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): total_cgpa_marks> on 2024-07-01 00:00:00+00:00
+[2024-07-02T11:49:39.045+0530] {standard_task_runner.py:63} INFO - Started process 27359 to run task
+[2024-07-02T11:49:39.047+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'calculate_cgpa', 'total_cgpa_marks', 'scheduled__2024-07-01T00:00:00+00:00', '--job-id', '1184', '--raw', '--subdir', 'DAGS_FOLDER/calculateCGPA_dag.py', '--cfg-path', '/tmp/tmpadj7dq5u']
+[2024-07-02T11:49:39.047+0530] {standard_task_runner.py:91} INFO - Job 1184: Subtask total_cgpa_marks
+[2024-07-02T11:49:39.063+0530] {task_command.py:426} INFO - Running <TaskInstance: calculate_cgpa.total_cgpa_marks scheduled__2024-07-01T00:00:00+00:00 [running]> on host ninebit5lm
+[2024-07-02T11:49:39.090+0530] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='calculate_cgpa' AIRFLOW_CTX_TASK_ID='total_cgpa_marks' AIRFLOW_CTX_EXECUTION_DATE='2024-07-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-07-01T00:00:00+00:00'
+[2024-07-02T11:49:39.091+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2024-07-02T11:49:39.091+0530] {logging_mixin.py:188} INFO - 4.8500000000000005
+[2024-07-02T11:49:39.092+0530] {python.py:237} INFO - Done. Returned value was: None
+[2024-07-02T11:49:39.092+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-07-02T11:49:39.094+0530] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=calculate_cgpa, task_id=total_cgpa_marks, run_id=scheduled__2024-07-01T00:00:00+00:00, execution_date=20240701T000000, start_date=20240702T061939, end_date=20240702T061939
+[2024-07-02T11:49:39.138+0530] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-07-02T11:49:39.145+0530] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-07-02T11:49:39.146+0530] {local_task_job_runner.py:222} INFO - ::endgroup::
